@@ -1,0 +1,1629 @@
+KAPITTEL 5 STRESSTEST AV NORSKE BANKER
+FINANSTILSYNET FINANSIELT UTSYN JUNI 2021 57
+BANKENES RESULTATER I
+STRESSCENARIOET
+Forutsetninger for stresstesten
+I en alvorlig krise vil bankenes resultater svekkes av
+både reduserte inntekter og omfattende økning i
+utlånstapene. I en normalsituasjon er utlånstapene i
+stor grad knyttet til spesielle forhold hos enkelt-
+kunder, mens et kraftig tilbakeslag vil ramme store
+deler av økonomien. Resultatene i stresstesten må ses i
+lys av at inntjening og soliditet i flere bedrifter er svak
+som følge av nedstengninger og redusert etterspørsel
+under koronapandemien, og at husholdningenes
+gjeldsbelastning er historisk høy. Norske banker har
+utlån til tilnærmet alle næringer og en meget stor
+andel av husholdningene.
+I stresscenarioet øker bankenes kostnader sterkt som
+følge av at rentene på innskudd og markedsfinansie-
+ring stiger. Samtidig øker bankenes utlånsrenter, men
+det forutsettes at ikke hele renteøkningen overføres til
+lånekundene. En relativt stor andel av ikke-finansielle
+foretak er ikke i stand til å dekke samlede renteutgifter
+på banklån, obligasjonslån og leverandørgjeld mv. med
+løpende inntjening, se omtale i kapittel 1. Slike foretak
+vil trolig heller ikke klare å betale avdrag og økte
+renter i stressbanen. Til tross for bedret innskudds-
+margin faller bankenes netto renteinntekter som andel
+av gjennomsnittlig forvaltningskapital med 10 basis-
+punkter. I tillegg bidrar varslingsfristen for renteøk-
+ninger på personlån til å redusere rentemarginen i den
+perioden rentenivået øker. Lavere økonomisk aktivitet
+antas å redusere bankenes netto provisjonsinntekter
+med 20 prosent. Bankenes administrasjonskostnader
+framskrives med utviklingen i generelle
+lønnskostnader i stressperioden.
+Norske banker har samlet sett relativt begrenset
+direkte eksponering mot aksjer, obligasjoner og fast
+eiendom. Enkelte banker er imidlertid mer eksponert
+enn andre, og dette fanges opp i årets stresstest. Fall i
+aksjemarkedene, økte kredittrisikopåslag og lavere
+eiendomspriser gir derfor et negativt resultatbidrag i
+2022, men bidraget er marginalt sammenlignet med
+utlånstapene. Tap som følge av operasjonell risiko
+beregnes som en årlig andel av gjennomsnittlig forvalt-
+ningskapital, som over stressperioden utgjør om lag
+det samlede nivået i standardmetoden for stresstesten
+fra Den europeiske banktilsynsmyndigheten
+(European Banking Authority, EBA).24
+I stresscenarioet forutsettes det at bankene ikke
+betaler utbytte. Videre legges det til grunn at det ikke
+skytes inn ny egenkapital eller at bankene foretar
+andre strategiske tilpasninger. Det forutsettes derfor
+at utviklingen i balansen for den enkelte bank følger
+endringen for de aktuelle kundesegmentene i
+banksektoren samlet, men ulik veksttakt mellom
+bankene vil påvirke utviklingen i den enkelte banks
+kjernekapitaldekning i et stress.
+Boks 7: Fordeling av utlånstap mellom
+banker
+Bankenes totale tap på utlån til personkunder og
+bedriftskunder er modellert i Finanstilsynets
+makromodell NAM-FT. Bankenes tap på utlån til
+personer går opp når husholdningenes
+rentebelastning øker og når boligprisene faller.
+Effektene på bankenes tap er: i) sterkere når
+husholdningenes rentebelastning er høy enn når
+den er lav, og ii) sterkere når boligprisene faller
+mye. Bankenes tap på utlån til bedrifter øker ved
+negativ BNP-vekst, fall i oljeprisen, økning i
+bedriftenes rentebelastning og nedgang i
+næringseiendomsprisene. Virkningene på
+bankenes tap er: i) sterkere når bedriftenes
+rentebelastning er høy enn når den er lav, og ii)
+sterkere når næringseiendomsprisene faller mye.
+Utlånstapet blir i NAM-FT beregnet som tap i
+prosent av total utlånseksponering for hvert av
+årene 2021 til 2025. Videre blir bankenes utlån til
+henholdsvis personkunder og bedriftskunder
+framskrevet. Den årlige tapsprosenten
+multiplisert med den totale utlånseksponeringen
+utgjør bankenes totale utlånstap i kroner.
+Fra og med i år brukes Finanstilsynets nye
+konkurs- og misligholdssannsynlighetsmodell
+SEMKO for estimering av såkalte PD-er (proba-
+KAPITTEL 5 STRESSTEST AV NORSKE BANKER
+58 FINANSTILSYNET FINANSIELT UTSYN JUNI 2021
+5.11 Resultat og viktigste resultatkomponenter. Norske
+bankkonsern – stresscenario
+Kilde: Finanstilsynet
+5.12 Utvikling i kapitaldekning. Norske bankkonsern –
+stresscenario
+Kilde: Finanstilsynet
+Stresstestresultatene for norske bankkonsern
+Finanstilsynet stresstester samtlige norske banker.
+Nedenfor drøftes særlig utviklingen for 19 av de
+største bankkonsernene.25 Disse sto for vel 72 prosent
+av norske bankers totale forvaltningskapital ved
+utgangen av 2020. Filialer av utenlandske bankkon-
+sern inngår ikke i utvalget. Utviklingen for øvrige
+norske banker og rene forbrukslånsbanker er omtalt
+separat.
+Bankkonsernenes viktigste inntektskilde, netto rente-
+inntekter26, faller i stresscenarioet fra 1,55 prosent av
+gjennomsnittlig forvaltningskapital i 2020 til 1,27
+prosent i 2022 og stabiliseres deretter på 1,45 prosent.
+Nedgangen kan tilskrives forutsetningen om at noe av
+økningen i bankenes finansieringskostnader ikke kan
+overføres til kunder med særlig svak betjeningsevne.
+Varslingsfristen for heving av utlånsrenter bidrar også
+til redusert rentenetto, særlig i de årene rentenivået
+stiger sterkt.
+Redusert rentenetto og nedgang i provisjonsinntek-
+tene reduserer inntjeningen fra kjernevirksomheten
+og svekker bankenes evne til å dekke utlånstap. Etter
+hvert som den økonomiske situasjonen for flere av
+bankenes kunder forverres i stresset, øker
+utlånstapene så mye at bankenes resultater blir
+negative og kjernekapitaldekningen faller.
+Tap på utlån til bedriftsmarkedet øker fra 0,9 prosent
+av de samlede utlånene til sektoren i 2020 til nesten 5
+prosent i 2022. For personmarkedet, som utgjør
+bankenes største utlånsportefølje, øker tapene fra 0,2
+prosent av samlede personmarkedslån i 2020 til 1,5
+prosent i 2022. Bankkonsernenes resultat etter skatt
+svekkes fra 0,7 prosent av gjennomsnittlig forvalt-
+ningskapital i 2020 til minus 1,5 prosent i 2022, for så
+gradvis å bedres til et samlet positivt resultat på 0,4
+prosent siste år i perioden, se figur 5.11.
+Bankenes rene kjernekapitaldekning faller fra 18,7
+prosent ved inngangen til perioden til 10,1 prosent i
+2023 og øker deretter til 11,9 prosent i 2025, se figur
+5.12. Kun et fåtall av bankkonsernene opprettholder et
+nivå på ren kjernekapital som dekker det samlede
+kapitalkravet inkludert bufferkrav27 og pilar 2-krav.
+-2,5
+-2,0
+-1,5
+-1,0
+-0,5
+0,0
+0,5
+1,0
+1,5
+2,0
+-2,5
+-2,0
+-1,5
+-1,0
+-0,5
+0,0
+0,5
+1,0
+1,5
+2,0
+2020 2021 2022 2023 2024 2025
+Prosent av GFK
+Netto renteinnteker Resultat etter skatt Utlånstap
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+2020 2021 2022 2023 2024 2025
+Prosent
+Uvektet kjernekapitaldekning
+Ren kjernekapitaldekning
+Krav til ren kjernekapital inkl. bufferkrav (vektet snitt)
+bility of default) for ikke-finansielle foretak.
+SEMKO kalibreres med årsregnskap og annen
+foretaksspesifikk informasjon og estimeres for 10
+næringsgrupper. Lånekundenes PD og bankenes
+engasjement ved utgangen av 2020 danner
+grunnlaget for å beregne bankenes tapsandel for
+ikke-finansielle foretak. Metoden for fordeling av
+utlånstap mellom bankene er nærmere beskrevet
+i Finansielt utsyn juni 2020.
+KAPITTEL 5 STRESSTEST AV NORSKE BANKER
+FINANSTILSYNET FINANSIELT UTSYN JUNI 2021 59
+Dette skyldes hovedsakelig negativt resultat drevet av
+store utlånstap. Også økt risikovektet beregnings-
+grunnlag i årene fram til 2023 som følge av vekst i
+utlån til husholdninger og kommuner bidrar til
+nedgangen i ren kjernekapitaldekning.
+Stresstestmodellen fanger ikke opp porteføljemigra-
+sjon i IRB-banker. Det innebærer at det ikke er tatt
+hensyn til at migrasjon til høyere risikoklasser som
+følge av den økonomiske utviklingen i stresscenarioet
+vil øke risikovektene og redusere kapitaldekningen.
+Den uvektede kapitaldekningen (leverage ratio28) for
+bankkonsernene faller fra 7,4 prosent i 2020 til 4,3
+prosent i 2023 og øker til 4,9 prosent i 2025. Ni av
+bankkonsernene oppfyller ikke det uvektede
+kapitalkravet (inkludert gjeldende bufferkrav) i
+scenarioet.
+Fallet i kapitaldekningen varierer betydelig mellom
+bankene. Figur 5.13 viser endringen i ren kjerne-
+kapitaldekning fra årsslutt 2020 til det laveste nivået i
+stressperioden.
+Bankkonsernene som kommer dårligst ut, har i
+gjennomsnitt relativt lav kapitalisering ved inngangen
+til perioden, en relativt høy andel utlån til ikke-
+finansielle foretak eller høy anslått kredittrisiko på
+denne porteføljen. Nivået på netto renteinntekter har
+også stor betydning.
+ØVRIGE NORSKE BANKER
+Øvrige norske finansforetak (89 foretak) omfatter i
+hovedsak mindre og mellomstore sparebanker. Disse
+stresstestes på enkeltforetaksnivå (morbank). Makro-
+scenarioet, stresstestmetoden og forutsetningene er de
+samme som for bankkonsernene. I årets stresstest
+inkluderes også disse bankenes verdipapirbehold-
+ninger og eiendomsinvesteringer i vurderingen på
+samme måte som for bankkonsernene.
+Det samlede resultatet til de mindre norske bankene
+svekkes kraftig de tre første årene i stresscenarioet.
+Økte tap på utlån til personkunder og til ikke-finan-
+sielle foretak står for omtrent like store deler av svek-
+kelsen, til tross for at bedriftsmarkedsporteføljen er
+betydelig mindre enn personmarkedsporteføljen. Tap
+5.13 Endring kapitaldekning fra 2020 til minimums-
+punktet. Norske bankkonsern – stresscenario
+Kilde: Finanstilsynet
+på utlån til ikke-finansielle foretak er generelt høyere
+for de mindre bankene enn for de store bankene
+grunnet høyere risiko i bedriftsmarkedsporteføljene.
+De mindre og mellomstore bankene har samlet sett
+høyere ren kjernekapitaldekning enn de større
+bankene ved inngangen til stressperioden (19,2
+prosent). I stresscenarioet faller denne ned mot 11,7
+prosent i løpet av de tre første årene, før den stiger
+igjen og ender på 12,9 prosent i 2025. Det er imidlertid
+stor variasjon mellom bankene. I 2023 vil 58 av de 89
+bankene ikke oppfylle de samlede kapitalkravene
+inkludert bufferkravene og pilar 2-kravet. Samtidig får
+53 banker beregnet en uvektet kjernekapitalandel
+(leverage ratio) under gjeldende krav på 5 prosent.
+FORBRUKSLÅNSBANKER
+Markedet for forbrukslån er i endring. Siden 2019 har
+utlånsveksten vært sterkt avtagende. Samtidig har
+misligholdet i bankenes forbrukslånsporteføljer økt,
+som omtalt i kapittel 2. I en stressituasjon vil det
+kunne være vanskelig for bankene å selge porteføljer
+av misligholdte lån til samme pris eller omfang som
+tidligere. Økende boligpriser har historisk gitt rom for
+å refinansiere forbrukslån, og et boligprisfall kan
+redusere denne muligheten. Det kan medføre at
+bankene må ta tap på en større andel av misligholdte
+lån. Analyser av utlånstap i normale økonomiske
+perioder viser at tapene på forbrukslån er fra 10 til
+-12 -10 -8 -6 -4 -2 0
+Bank 19
+Bank 18
+Bank 17
+Bank 16
+Bank 15
+Bank 14
+Bank 13
+Bank 12
+Bank 11
+Bank 10
+Bank 9
+Bank 8
+Bank 7
+Bank 6
+Bank 5
+Bank 4
+Bank 3
+Bank 2
+Bank 1
+Prosentpoeng
+Uvektet Risikovektet
+KAPITTEL 5 STRESSTEST AV NORSKE BANKER
+60 FINANSTILSYNET FINANSIELT UTSYN JUNI 2021
+5.14 Årlige utlånstap som andel av totale utlån.
+Forbrukslånsbanker
+Kilde: Finanstilsynet
+over 20 ganger større enn på øvrige lån til hushold-
+ninger, som i hovedsak består av boliglån. Det er
+derfor sannsynlig at tapene på forbrukslån i et stress
+vil kunne bli svært høye.
+Det er imidlertid stor usikkerhet til hvordan tapene på
+forbrukslån vil utvikle seg i en alvorlig krise. Norge har
+ikke opplevd et kraftig og langvarig økonomisk
+tilbakeslag med høye tap på utlån til personmarkedet
+siden bankkrisen på 1990-tallet. Den gangen var
+andelen forbrukslån langt lavere enn i dag. På
+bakgrunn av denne usikkerheten har Finanstilsynet i
+år besluttet å legge om stresstesten av forbrukslåns-
+bankene, slik at den illustrerer hvor store tap disse
+bankene tåler uten å bryte kapitalkravene.
+Sju banker som i hovedsak yter forbrukslån, er med i
+Finanstilsynets stresstest. Forutsetningene for den
+"omvendte" stresstesten sammenfaller i stor grad med
+det generelle stresset av samtlige banker, men avviker
+på to sentrale punkter. Forbrukslånsbankene har en
+langt høyere rentenetto enn de tradisjonelle bankene
+og tilsvarende økte muligheter til å dekke utlånstap
+med løpende inntjening. Samlet utgjorde rentenettoen
+8,3 prosent av gjennomsnittlig forvaltningskapital i
+2020. I stresstesten reduseres rentenettoen til 6,3
+prosent i gjennomsnitt i 2021 og blir liggende uendret
+på om lag samme nivå fram til 2025. Redusert
+rentenetto kan for eksempel oppstå på grunn av sterk
+konkurranse i forbrukslånsmarkedet, se omtale i
+kapittel 2, noe som begrenser muligheten til å øke
+utlånsrentene i takt med den generelle renteøkningen.
+Et generelt høyere nivå på innskuddsrentene i de
+tradisjonelle bankene, opp fra nær 0 ved startpunktet,
+kan også bidra til at renten på innskudd må økes for at
+kundene skal være villige til å holde innskudd i
+forbrukslånsbankene.
+Det andre avviket gjelder beregning av utlånstap. I
+stedet for å framskrive utlånstapene ved hjelp av en
+estimert modell, settes utlånstapene i
+forbrukslånsbankene til høyeste mulige nivå uten at
+bankene samlet bryter kravene til kapitaldekning.
+Størrelsen på utlånstapene bygger derfor ikke på
+faktiske historiske korrelasjoner og sammenhenger
+med utviklingen i makroøkonomiske variabler, men er
+en følsomhetsanalyse som viser hvor store utlåns-
+tapene kan bli før kapitaldekningen faller under de
+regulatoriske minste- og bufferkravene.
+Det forutsettes at utlånstapene følger den samme
+profilen som i det generelle stresset, med betydelig
+svekkelse i de tre første årene av framskrivings-
+perioden før situasjonen bedrer seg noe mot slutten av
+stresset. Forbrukslånsbankene som gruppe vil kunne
+oppfylle kapitalkravene ved samlede, akkumulerte tap
+over femårsperioden på om lag 34 prosent av
+bankenes totale utlån ved inngangen til
+stressperioden. Til sammenligning var 23 prosent av
+forbrukslånsbankenes portefølje i mislighold per 1.
+kvartal 2021. De årlige utlånstapene som andel av
+totale utlån vil nå sitt maksimum på 9,8 prosent i
+2022, se figur 5.14. Det er imidlertid store forskjeller
+mellom bankene innad i denne gruppen, og flere av
+forbrukslånsbankene vil få problemer med å
+opprettholde kapitaldekningen uten kapitaltilførsel
+selv ved betydelig lavere tap enn 34 prosent.
+SAMLET VURDERING AV
+STRESSTESTRESULTATENE
+Norske bankers regulatoriske kapitaldekning har over
+flere år økt og steg også i 2020 i stor grad fordi
+utbytter ble holdt tilbake i henhold til myndighetenes
+anbefaling. Bankenes egenkapitalandel (egenkapital
+som andel av forvaltningskapital), som er et tradi-
+-10
+-9
+-8
+-7
+-6
+-5
+-4
+-3
+-2
+-1
+0
+-10
+-9
+-8
+-7
+-6
+-5
+-4
+-3
+-2
+-1
+0
+2019 2020 2021 2022 2023 2024 2025
+Prosent
+KAPITTEL 5 STRESSTEST AV NORSKE BANKER
+FINANSTILSYNET FINANSIELT UTSYN JUNI 2021 61
+sjonelt soliditetsmål, har økt, men er ikke markant
+høyere enn tidlig på 1990-tallet. I basisscenarioet
+forventes bankenes samlede soliditet å svekkes noe de
+neste årene dersom man legger en utbyttegrad på 50
+prosent til grunn. Dersom alt overskudd holdes
+tilbake, vil bankenes kapitaldekning øke.
+I stresscenarioet blir den samlede effekten på
+bankenes kapitaldekning betydelig. Brorparten av
+bankkonsernene vil bryte det samlede kravet til ren
+kjernekapital i løpet av stressperioden, selv om kravet
+til motsyklisk kapitalbuffer skulle fjernes helt. Det er
+hovedsakelig økte tap på utlån til ikke-finansielle
+foretak og på lån til husholdningene (inkludert
+forbrukslån) som svekker soliditeten i bankene, men
+også redusert rentenetto bidrar.
+I urolige perioder er det viktig å unngå usikkerhet i
+kapitalmarkedene om bankenes kapitalisering.
+Banknæringen samlet må være godt kapitalisert for å
+ha kapasitet til å gi kredittverdige lånekunder lån og
+ikke forsterke en negativ økonomisk utvikling
+ytterligere. Den videre økonomiske utviklingen er
+fortsatt preget av stor usikkerhet. Finanstilsynet legger
+vekt på at bankene hensyntar dette i sine beslutninger
+om utbetaling av utbytter og andre disposisjoner som
+kan bidra til å svekke den tapsabsorberende evnen.
+NOTER
+62 FINANSTILSYNET FINANSIELT UTSYN JUNI 2021
+NOTER
+1 I tillegg til å dekke rente- og avdragsforpliktelser må
+driftsinntjeningen dekke skatt, utbytte og
+egenfinansiering av eventuelle nye investeringer og økt
+likviditetsbehov. Gjeldsbetjeningsindikatoren bør derfor
+være betydelig høyere enn 1.
+2 I tillegg til å dekke netto rentekostnader og avdrag på
+gjeld må driftsinntjeningen dekke skatt. Over tid må
+driftsinntjeningen også bidra til et visst utbytte til eierne.
+Dersom selskapet har planer om å utvide virksomheten,
+må driftsinntjeningen også vanligvis dekke en viss andel
+egenfinansiering av nye investeringer. En eventuell
+nødvendig forbedring i likviditeten vil også ofte måtte
+delvis dekkes av egenfinansiering.
+3 Se blant annet McGowan et.al., "The Walking Dead
+Zombie Firms and Productivity Performance in OECD
+countries", OECD Economics Department Working Papers
+No. 1372.
+4 Se Shekar Aiyar et.al. (2021): "Covid-19: How will
+European Banks Fare?", IMF analyse no. 21/08. COVID-
+19: How Will European Banks Fare? (imf.org)
+5 Se Caroline Roulet (2020): "Corporate Debt Stress
+Testing: A Global Analysis of Non-Financial
+Corporations". OECD Working Paper No. 46 2020.
+6 Se
+https://www.bis.org/statistics/totcredit.htm?m=6%7C3
+80%7C669.
+7 Resultatet er definert som resultat etter skatt pluss
+rentekostnader. Ved utgangen av 2020 var
+gjeldsbetjeningsindikatoren som følger for de 17 landene
+i BIS-utvalget (prosent): 1.Frankrike (72,4), 2.Canada
+(62,0), 3.Sverige (55,8), 4.Norge (51,5), 5.Portugal (47,9),
+6.USA (46,5), 7.Nederland (46,0), 8.Belgia (45,7),
+9.Danmark (43,8), 10.Sør-Korea (40,2), 11.Finland (39,1),
+12.Spania (38,9), 13.Japan (37,8), 14.Italia (35,0), 15.UK
+(34,5), 16.Australia (34,0) og 17.Tyskland (25,1).
+8 Se referanse i fotnote 6 for flere internasjonale
+sammenligninger av ikke-finansielle foretak.
+9 Utlån hvor det er over 90 dager siden forfall/overtrekk
+samt andre utlån hvor det er lite sannsynlig at motparten
+vil være i stand til å møte sine forpliktelser ("unlikeliness
+to pay"), jf. artikkel 178 i kapitalkravsforordningen. Se
+også Finanstilsynets rundskriv 4/2020.
+10
+https://www.esrb.europa.eu/pub/pdf/recommendations
+/esrb.recommendation201215_on_restriction_of_distribu
+tions_during_the_COVID-
+19_pandemic~2502cd1d1c.en.pdf
+11 https://www.regjeringen.no/no/aktuelt/bankene-bor-
+vare-forsiktige-med-a-dele-ut-utbytte-
+fremover/id2829325/
+12 Små og mellomstore bedrifter defineres i CRR som
+foretak som sysselsetter færre enn 250 personer, og som
+har en årsomsetning under 50 mill. euro.
+13 https://www.regjeringen.no/no/dokumenter/prop.-
+147-ls-20202021/id2843611/?ch=1 samt
+Finanstilsynets høringsnotat.
+14 https://www.norges-bank.no/aktuelt/nyheter-og-
+hendelser/Pressemeldinger/2021/2021-02-01-sil/
+15 Norske forbrukslånsbanker er definert som
+spesialiserte banker hvor mer enn halvparten av
+utlånsporteføljen består av lån uten sikkerhet til
+personkunder. Ved utgangen av første kvartal 2021 besto
+gruppen av Bank Norwegian, Brabank, Eika Kredittbank,
+Instabank og Komplett Bank.
+16
+https://www.fi.se/contentassets/7870cf60763d402baf4
+e6b4d86d3904f/bankbarometern-2021-1.pdf
+17 https://vff.no/historisk-statistikk
+18 https://www.eiopa.europa.eu/content/eiopa-outlines-
+key-financial-stability-risks-and-vulnerabilities-
+insurance-and-pension
+19 Eksponeringen er målt ved forholdet mellom
+investeringer i næringseiendom (i kollektiv- og
+selskapsporteføljen) og egenkapitalen (differansen
+mellom eiendeler og forpliktelser i Solvens II-balansen).
+20
+https://www.finansnorge.no/aktuelt/nyheter/2021/01/
+rekordstor-flytting-av-pensjonskapitalbevis--nodvendig-
+med-flytteplaner/
+21 Foretakene i virksomhetsregisteret som har
+virksomhet innen kryptovaluta, er kun underlagt
+hvitvaskingstilsyn og ikke fullt tilsyn. For øvrig henvises
+til følgende advarsel om risiko ved virtuelle valutaer.
+22 NAM-FT er basert på modellen Norwegian Aggregate
+Model (NAM) og er særlig utviklet for stresstesting av
+banker og analyser av finansiell stabilitet. NAM er
+utviklet av professorene Gunnar Bårdsen og Ragnar
+Nymoen. Dokumentasjon av modellen finnes på
+normetrics.no. Modellen er også omtalt i Finansielt utsyn
+fra 2014 til 2020.
+23 Det reelle fallet i boligpriser og næringseiendomspriser
+i stresscenarioet ligner mer på utviklingen under
+bankkrisen på 1980- og1990-tallet. I stresscenarioet
+faller boligprisene delt på konsumprisindeksen med 43
+prosent fra 2021 til 2024, mens nedgangen var 39
+prosent fra 1987 til 1993. Det reelle fallet i
+næringseiendomsprisene i stressperioden (2020-2025)
+er 53 prosent, mens det var 54 prosent fra 1986 til 1992.
+Realpriser er her beregnet som årlige gjennomsnitt av
+eiendomspriser delt på årlige gjennomsnitt av
+konsumprisindeksen.
+NOTER
+FINANSTILSYNET FINANSIELT UTSYN JUNI 2021 63
+24 EBAs stresstest går over tre år. En tilsvarende effekt er
+i Finanstilsynets modell fordelt over fem år og utgjør
+derfor en svakere stressfaktor.
+25 DNB Bankkonsern, Sparebank 1 SR, Sparebank SMN,
+Sparebanken Vest, Sparebank 1 Østlandet, Sparebank 1
+Nord-Norge, Sparebanken Sør, Sparebanken Møre,
+Sparebanken Sogn og Fjordane, Nordea Direct Bank,
+Sparebanken Øst, Sbanken, Storebrand Bank, Helgeland
+Sparebank, Landkreditt Bank, Sandnes Sparebank, Fana
+Sparebank, Totens Sparebank og Aurskog Sparebank.
+26 Sum renteinntekter minus sum rentekostnader i
+prosent av gjennomsnittlig forvaltningskapital (GFK).
+27 Kapitalkravene er basert på full CRD IV/CRR og fullt
+innfaset systemrisikobuffer. Som en teknisk forutsetning
+settes motsyklisk kapitalbuffer til 0. Krav til ren
+kjernekapital, bevaringsbuffer, systemrisikobuffer,
+motsyklisk kapitalbuffer, buffer for systemviktige foretak
+og individuelt bestemte pilar 2-krav forutsettes å være
+konstante gjennom perioden.
+28 En del av sentralbankenes likviditetstiltak vil påvirke
+uvektet kapitaldekning for de større bankene.
+Stresstesten inkluderer ikke slike effekter.
+KAPITTEL 5 STRESSTEST AV NORSKE BANKER
+FINANSTILSYNET FINANSIELT UTSYN JUNI 2021 57
+BANKENES RESULTATER I
+STRESSCENARIOET
+Forutsetninger for stresstesten
+I en alvorlig krise vil bankenes resultater svekkes av
+både reduserte inntekter og omfattende økning i
+utlånstapene. I en normalsituasjon er utlånstapene i
+stor grad knyttet til spesielle forhold hos enkelt-
+kunder, mens et kraftig tilbakeslag vil ramme store
+deler av økonomien. Resultatene i stresstesten må ses i
+lys av at inntjening og soliditet i flere bedrifter er svak
+som følge av nedstengninger og redusert etterspørsel
+under koronapandemien, og at husholdningenes
+gjeldsbelastning er historisk høy. Norske banker har
+utlån til tilnærmet alle næringer og en meget stor
+andel av husholdningene.
+I stresscenarioet øker bankenes kostnader sterkt som
+følge av at rentene på innskudd og markedsfinansie-
+ring stiger. Samtidig øker bankenes utlånsrenter, men
+det forutsettes at ikke hele renteøkningen overføres til
+lånekundene. En relativt stor andel av ikke-finansielle
+foretak er ikke i stand til å dekke samlede renteutgifter
+på banklån, obligasjonslån og leverandørgjeld mv. med
+løpende inntjening, se omtale i kapittel 1. Slike foretak
+vil trolig heller ikke klare å betale avdrag og økte
+renter i stressbanen. Til tross for bedret innskudds-
+margin faller bankenes netto renteinntekter som andel
+av gjennomsnittlig forvaltningskapital med 10 basis-
+punkter. I tillegg bidrar varslingsfristen for renteøk-
+ninger på personlån til å redusere rentemarginen i den
+perioden rentenivået øker. Lavere økonomisk aktivitet
+antas å redusere bankenes netto provisjonsinntekter
+med 20 prosent. Bankenes administrasjonskostnader
+framskrives med utviklingen i generelle
+lønnskostnader i stressperioden.
+Norske banker har samlet sett relativt begrenset
+direkte eksponering mot aksjer, obligasjoner og fast
+eiendom. Enkelte banker er imidlertid mer eksponert
+enn andre, og dette fanges opp i årets stresstest. Fall i
+aksjemarkedene, økte kredittrisikopåslag og lavere
+eiendomspriser gir derfor et negativt resultatbidrag i
+2022, men bidraget er marginalt sammenlignet med
+utlånstapene. Tap som følge av operasjonell risiko
+beregnes som en årlig andel av gjennomsnittlig forvalt-
+ningskapital, som over stressperioden utgjør om lag
+det samlede nivået i standardmetoden for stresstesten
+fra Den europeiske banktilsynsmyndigheten
+(European Banking Authority, EBA).24
+I stresscenarioet forutsettes det at bankene ikke
+betaler utbytte. Videre legges det til grunn at det ikke
+skytes inn ny egenkapital eller at bankene foretar
+andre strategiske tilpasninger. Det forutsettes derfor
+at utviklingen i balansen for den enkelte bank følger
+endringen for de aktuelle kundesegmentene i
+banksektoren samlet, men ulik veksttakt mellom
+bankene vil påvirke utviklingen i den enkelte banks
+kjernekapitaldekning i et stress.
+Boks 7: Fordeling av utlånstap mellom
+banker
+Bankenes totale tap på utlån til personkunder og
+bedriftskunder er modellert i Finanstilsynets
+makromodell NAM-FT. Bankenes tap på utlån til
+personer går opp når husholdningenes
+rentebelastning øker og når boligprisene faller.
+Effektene på bankenes tap er: i) sterkere når
+husholdningenes rentebelastning er høy enn når
+den er lav, og ii) sterkere når boligprisene faller
+mye. Bankenes tap på utlån til bedrifter øker ved
+negativ BNP-vekst, fall i oljeprisen, økning i
+bedriftenes rentebelastning og nedgang i
+næringseiendomsprisene. Virkningene på
+bankenes tap er: i) sterkere når bedriftenes
+rentebelastning er høy enn når den er lav, og ii)
+sterkere når næringseiendomsprisene faller mye.
+Utlånstapet blir i NAM-FT beregnet som tap i
+prosent av total utlånseksponering for hvert av
+årene 2021 til 2025. Videre blir bankenes utlån til
+henholdsvis personkunder og bedriftskunder
+framskrevet. Den årlige tapsprosenten
+multiplisert med den totale utlånseksponeringen
+utgjør bankenes totale utlånstap i kroner.
+Fra og med i år brukes Finanstilsynets nye
+konkurs- og misligholdssannsynlighetsmodell
+SEMKO for estimering av såkalte PD-er (proba-
+KAPITTEL 5 STRESSTEST AV NORSKE BANKER
+58 FINANSTILSYNET FINANSIELT UTSYN JUNI 2021
+5.11 Resultat og viktigste resultatkomponenter. Norske
+bankkonsern – stresscenario
+Kilde: Finanstilsynet
+5.12 Utvikling i kapitaldekning. Norske bankkonsern –
+stresscenario
+Kilde: Finanstilsynet
+Stresstestresultatene for norske bankkonsern
+Finanstilsynet stresstester samtlige norske banker.
+Nedenfor drøftes særlig utviklingen for 19 av de
+største bankkonsernene.25 Disse sto for vel 72 prosent
+av norske bankers totale forvaltningskapital ved
+utgangen av 2020. Filialer av utenlandske bankkon-
+sern inngår ikke i utvalget. Utviklingen for øvrige
+norske banker og rene forbrukslånsbanker er omtalt
+separat.
+Bankkonsernenes viktigste inntektskilde, netto rente-
+inntekter26, faller i stresscenarioet fra 1,55 prosent av
+gjennomsnittlig forvaltningskapital i 2020 til 1,27
+prosent i 2022 og stabiliseres deretter på 1,45 prosent.
+Nedgangen kan tilskrives forutsetningen om at noe av
+økningen i bankenes finansieringskostnader ikke kan
+overføres til kunder med særlig svak betjeningsevne.
+Varslingsfristen for heving av utlånsrenter bidrar også
+til redusert rentenetto, særlig i de årene rentenivået
+stiger sterkt.
+Redusert rentenetto og nedgang i provisjonsinntek-
+tene reduserer inntjeningen fra kjernevirksomheten
+og svekker bankenes evne til å dekke utlånstap. Etter
+hvert som den økonomiske situasjonen for flere av
+bankenes kunder forverres i stresset, øker
+utlånstapene så mye at bankenes resultater blir
+negative og kjernekapitaldekningen faller.
+Tap på utlån til bedriftsmarkedet øker fra 0,9 prosent
+av de samlede utlånene til sektoren i 2020 til nesten 5
+prosent i 2022. For personmarkedet, som utgjør
+bankenes største utlånsportefølje, øker tapene fra 0,2
+prosent av samlede personmarkedslån i 2020 til 1,5
+prosent i 2022. Bankkonsernenes resultat etter skatt
+svekkes fra 0,7 prosent av gjennomsnittlig forvalt-
+ningskapital i 2020 til minus 1,5 prosent i 2022, for så
+gradvis å bedres til et samlet positivt resultat på 0,4
+prosent siste år i perioden, se figur 5.11.
+Bankenes rene kjernekapitaldekning faller fra 18,7
+prosent ved inngangen til perioden til 10,1 prosent i
+2023 og øker deretter til 11,9 prosent i 2025, se figur
+5.12. Kun et fåtall av bankkonsernene opprettholder et
+nivå på ren kjernekapital som dekker det samlede
+kapitalkravet inkludert bufferkrav27 og pilar 2-krav.
+-2,5
+-2,0
+-1,5
+-1,0
+-0,5
+0,0
+0,5
+1,0
+1,5
+2,0
+-2,5
+-2,0
+-1,5
+-1,0
+-0,5
+0,0
+0,5
+1,0
+1,5
+2,0
+2020 2021 2022 2023 2024 2025
+Prosent av GFK
+Netto renteinnteker Resultat etter skatt Utlånstap
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+2020 2021 2022 2023 2024 2025
+Prosent
+Uvektet kjernekapitaldekning
+Ren kjernekapitaldekning
+Krav til ren kjernekapital inkl. bufferkrav (vektet snitt)
+bility of default) for ikke-finansielle foretak.
+SEMKO kalibreres med årsregnskap og annen
+foretaksspesifikk informasjon og estimeres for 10
+næringsgrupper. Lånekundenes PD og bankenes
+engasjement ved utgangen av 2020 danner
+grunnlaget for å beregne bankenes tapsandel for
+ikke-finansielle foretak. Metoden for fordeling av
+utlånstap mellom bankene er nærmere beskrevet
+i Finansielt utsyn juni 2020.
+KAPITTEL 5 STRESSTEST AV NORSKE BANKER
+FINANSTILSYNET FINANSIELT UTSYN JUNI 2021 59
+Dette skyldes hovedsakelig negativt resultat drevet av
+store utlånstap. Også økt risikovektet beregnings-
+grunnlag i årene fram til 2023 som følge av vekst i
+utlån til husholdninger og kommuner bidrar til
+nedgangen i ren kjernekapitaldekning.
+Stresstestmodellen fanger ikke opp porteføljemigra-
+sjon i IRB-banker. Det innebærer at det ikke er tatt
+hensyn til at migrasjon til høyere risikoklasser som
+følge av den økonomiske utviklingen i stresscenarioet
+vil øke risikovektene og redusere kapitaldekningen.
+Den uvektede kapitaldekningen (leverage ratio28) for
+bankkonsernene faller fra 7,4 prosent i 2020 til 4,3
+prosent i 2023 og øker til 4,9 prosent i 2025. Ni av
+bankkonsernene oppfyller ikke det uvektede
+kapitalkravet (inkludert gjeldende bufferkrav) i
+scenarioet.
+Fallet i kapitaldekningen varierer betydelig mellom
+bankene. Figur 5.13 viser endringen i ren kjerne-
+kapitaldekning fra årsslutt 2020 til det laveste nivået i
+stressperioden.
+Bankkonsernene som kommer dårligst ut, har i
+gjennomsnitt relativt lav kapitalisering ved inngangen
+til perioden, en relativt høy andel utlån til ikke-
+finansielle foretak eller høy anslått kredittrisiko på
+denne porteføljen. Nivået på netto renteinntekter har
+også stor betydning.
+ØVRIGE NORSKE BANKER
+Øvrige norske finansforetak (89 foretak) omfatter i
+hovedsak mindre og mellomstore sparebanker. Disse
+stresstestes på enkeltforetaksnivå (morbank). Makro-
+scenarioet, stresstestmetoden og forutsetningene er de
+samme som for bankkonsernene. I årets stresstest
+inkluderes også disse bankenes verdipapirbehold-
+ninger og eiendomsinvesteringer i vurderingen på
+samme måte som for bankkonsernene.
+Det samlede resultatet til de mindre norske bankene
+svekkes kraftig de tre første årene i stresscenarioet.
+Økte tap på utlån til personkunder og til ikke-finan-
+sielle foretak står for omtrent like store deler av svek-
+kelsen, til tross for at bedriftsmarkedsporteføljen er
+betydelig mindre enn personmarkedsporteføljen. Tap
+5.13 Endring kapitaldekning fra 2020 til minimums-
+punktet. Norske bankkonsern – stresscenario
+Kilde: Finanstilsynet
+på utlån til ikke-finansielle foretak er generelt høyere
+for de mindre bankene enn for de store bankene
+grunnet høyere risiko i bedriftsmarkedsporteføljene.
+De mindre og mellomstore bankene har samlet sett
+høyere ren kjernekapitaldekning enn de større
+bankene ved inngangen til stressperioden (19,2
+prosent). I stresscenarioet faller denne ned mot 11,7
+prosent i løpet av de tre første årene, før den stiger
+igjen og ender på 12,9 prosent i 2025. Det er imidlertid
+stor variasjon mellom bankene. I 2023 vil 58 av de 89
+bankene ikke oppfylle de samlede kapitalkravene
+inkludert bufferkravene og pilar 2-kravet. Samtidig får
+53 banker beregnet en uvektet kjernekapitalandel
+(leverage ratio) under gjeldende krav på 5 prosent.
+FORBRUKSLÅNSBANKER
+Markedet for forbrukslån er i endring. Siden 2019 har
+utlånsveksten vært sterkt avtagende. Samtidig har
+misligholdet i bankenes forbrukslånsporteføljer økt,
+som omtalt i kapittel 2. I en stressituasjon vil det
+kunne være vanskelig for bankene å selge porteføljer
+av misligholdte lån til samme pris eller omfang som
+tidligere. Økende boligpriser har historisk gitt rom for
+å refinansiere forbrukslån, og et boligprisfall kan
+redusere denne muligheten. Det kan medføre at
+bankene må ta tap på en større andel av misligholdte
+lån. Analyser av utlånstap i normale økonomiske
+perioder viser at tapene på forbrukslån er fra 10 til
+-12 -10 -8 -6 -4 -2 0
+Bank 19
+Bank 18
+Bank 17
+Bank 16
+Bank 15
+Bank 14
+Bank 13
+Bank 12
+Bank 11
+Bank 10
+Bank 9
+Bank 8
+Bank 7
+Bank 6
+Bank 5
+Bank 4
+Bank 3
+Bank 2
+Bank 1
+Prosentpoeng
+Uvektet Risikovektet
+KAPITTEL 5 STRESSTEST AV NORSKE BANKER
+60 FINANSTILSYNET FINANSIELT UTSYN JUNI 2021
+5.14 Årlige utlånstap som andel av totale utlån.
+Forbrukslånsbanker
+Kilde: Finanstilsynet
+over 20 ganger større enn på øvrige lån til hushold-
+ninger, som i hovedsak består av boliglån. Det er
+derfor sannsynlig at tapene på forbrukslån i et stress
+vil kunne bli svært høye.
+Det er imidlertid stor usikkerhet til hvordan tapene på
+forbrukslån vil utvikle seg i en alvorlig krise. Norge har
+ikke opplevd et kraftig og langvarig økonomisk
+tilbakeslag med høye tap på utlån til personmarkedet
+siden bankkrisen på 1990-tallet. Den gangen var
+andelen forbrukslån langt lavere enn i dag. På
+bakgrunn av denne usikkerheten har Finanstilsynet i
+år besluttet å legge om stresstesten av forbrukslåns-
+bankene, slik at den illustrerer hvor store tap disse
+bankene tåler uten å bryte kapitalkravene.
+Sju banker som i hovedsak yter forbrukslån, er med i
+Finanstilsynets stresstest. Forutsetningene for den
+"omvendte" stresstesten sammenfaller i stor grad med
+det generelle stresset av samtlige banker, men avviker
+på to sentrale punkter. Forbrukslånsbankene har en
+langt høyere rentenetto enn de tradisjonelle bankene
+og tilsvarende økte muligheter til å dekke utlånstap
+med løpende inntjening. Samlet utgjorde rentenettoen
+8,3 prosent av gjennomsnittlig forvaltningskapital i
+2020. I stresstesten reduseres rentenettoen til 6,3
+prosent i gjennomsnitt i 2021 og blir liggende uendret
+på om lag samme nivå fram til 2025. Redusert
+rentenetto kan for eksempel oppstå på grunn av sterk
+konkurranse i forbrukslånsmarkedet, se omtale i
+kapittel 2, noe som begrenser muligheten til å øke
+utlånsrentene i takt med den generelle renteøkningen.
+Et generelt høyere nivå på innskuddsrentene i de
+tradisjonelle bankene, opp fra nær 0 ved startpunktet,
+kan også bidra til at renten på innskudd må økes for at
+kundene skal være villige til å holde innskudd i
+forbrukslånsbankene.
+Det andre avviket gjelder beregning av utlånstap. I
+stedet for å framskrive utlånstapene ved hjelp av en
+estimert modell, settes utlånstapene i
+forbrukslånsbankene til høyeste mulige nivå uten at
+bankene samlet bryter kravene til kapitaldekning.
+Størrelsen på utlånstapene bygger derfor ikke på
+faktiske historiske korrelasjoner og sammenhenger
+med utviklingen i makroøkonomiske variabler, men er
+en følsomhetsanalyse som viser hvor store utlåns-
+tapene kan bli før kapitaldekningen faller under de
+regulatoriske minste- og bufferkravene.
+Det forutsettes at utlånstapene følger den samme
+profilen som i det generelle stresset, med betydelig
+svekkelse i de tre første årene av framskrivings-
+perioden før situasjonen bedrer seg noe mot slutten av
+stresset. Forbrukslånsbankene som gruppe vil kunne
+oppfylle kapitalkravene ved samlede, akkumulerte tap
+over femårsperioden på om lag 34 prosent av
+bankenes totale utlån ved inngangen til
+stressperioden. Til sammenligning var 23 prosent av
+forbrukslånsbankenes portefølje i mislighold per 1.
+kvartal 2021. De årlige utlånstapene som andel av
+totale utlån vil nå sitt maksimum på 9,8 prosent i
+2022, se figur 5.14. Det er imidlertid store forskjeller
+mellom bankene innad i denne gruppen, og flere av
+forbrukslånsbankene vil få problemer med å
+opprettholde kapitaldekningen uten kapitaltilførsel
+selv ved betydelig lavere tap enn 34 prosent.
+SAMLET VURDERING AV
+STRESSTESTRESULTATENE
+Norske bankers regulatoriske kapitaldekning har over
+flere år økt og steg også i 2020 i stor grad fordi
+utbytter ble holdt tilbake i henhold til myndighetenes
+anbefaling. Bankenes egenkapitalandel (egenkapital
+som andel av forvaltningskapital), som er et tradi-
+-10
+-9
+-8
+-7
+-6
+-5
+-4
+-3
+-2
+-1
+0
+-10
+-9
+-8
+-7
+-6
+-5
+-4
+-3
+-2
+-1
+0
+2019 2020 2021 2022 2023 2024 2025
+Prosent
+KAPITTEL 5 STRESSTEST AV NORSKE BANKER
+FINANSTILSYNET FINANSIELT UTSYN JUNI 2021 61
+sjonelt soliditetsmål, har økt, men er ikke markant
+høyere enn tidlig på 1990-tallet. I basisscenarioet
+forventes bankenes samlede soliditet å svekkes noe de
+neste årene dersom man legger en utbyttegrad på 50
+prosent til grunn. Dersom alt overskudd holdes
+tilbake, vil bankenes kapitaldekning øke.
+I stresscenarioet blir den samlede effekten på
+bankenes kapitaldekning betydelig. Brorparten av
+bankkonsernene vil bryte det samlede kravet til ren
+kjernekapital i løpet av stressperioden, selv om kravet
+til motsyklisk kapitalbuffer skulle fjernes helt. Det er
+hovedsakelig økte tap på utlån til ikke-finansielle
+foretak og på lån til husholdningene (inkludert
+forbrukslån) som svekker soliditeten i bankene, men
+også redusert rentenetto bidrar.
+I urolige perioder er det viktig å unngå usikkerhet i
+kapitalmarkedene om bankenes kapitalisering.
+Banknæringen samlet må være godt kapitalisert for å
+ha kapasitet til å gi kredittverdige lånekunder lån og
+ikke forsterke en negativ økonomisk utvikling
+ytterligere. Den videre økonomiske utviklingen er
+fortsatt preget av stor usikkerhet. Finanstilsynet legger
+vekt på at bankene hensyntar dette i sine beslutninger
+om utbetaling av utbytter og andre disposisjoner som
+kan bidra til å svekke den tapsabsorberende evnen.
+NOTER
+62 FINANSTILSYNET FINANSIELT UTSYN JUNI 2021
+NOTER
+1 I tillegg til å dekke rente- og avdragsforpliktelser må
+driftsinntjeningen dekke skatt, utbytte og
+egenfinansiering av eventuelle nye investeringer og økt
+likviditetsbehov. Gjeldsbetjeningsindikatoren bør derfor
+være betydelig høyere enn 1.
+2 I tillegg til å dekke netto rentekostnader og avdrag på
+gjeld må driftsinntjeningen dekke skatt. Over tid må
+driftsinntjeningen også bidra til et visst utbytte til eierne.
+Dersom selskapet har planer om å utvide virksomheten,
+må driftsinntjeningen også vanligvis dekke en viss andel
+egenfinansiering av nye investeringer. En eventuell
+nødvendig forbedring i likviditeten vil også ofte måtte
+delvis dekkes av egenfinansiering.
+3 Se blant annet McGowan et.al., "The Walking Dead
+Zombie Firms and Productivity Performance in OECD
+countries", OECD Economics Department Working Papers
+No. 1372.
+4 Se Shekar Aiyar et.al. (2021): "Covid-19: How will
+European Banks Fare?", IMF analyse no. 21/08. COVID-
+19: How Will European Banks Fare? (imf.org)
+5 Se Caroline Roulet (2020): "Corporate Debt Stress
+Testing: A Global Analysis of Non-Financial
+Corporations". OECD Working Paper No. 46 2020.
+6 Se
+https://www.bis.org/statistics/totcredit.htm?m=6%7C3
+80%7C669.
+7 Resultatet er definert som resultat etter skatt pluss
+rentekostnader. Ved utgangen av 2020 var
+gjeldsbetjeningsindikatoren som følger for de 17 landene
+i BIS-utvalget (prosent): 1.Frankrike (72,4), 2.Canada
+(62,0), 3.Sverige (55,8), 4.Norge (51,5), 5.Portugal (47,9),
+6.USA (46,5), 7.Nederland (46,0), 8.Belgia (45,7),
+9.Danmark (43,8), 10.Sør-Korea (40,2), 11.Finland (39,1),
+12.Spania (38,9), 13.Japan (37,8), 14.Italia (35,0), 15.UK
+(34,5), 16.Australia (34,0) og 17.Tyskland (25,1).
+8 Se referanse i fotnote 6 for flere internasjonale
+sammenligninger av ikke-finansielle foretak.
+9 Utlån hvor det er over 90 dager siden forfall/overtrekk
+samt andre utlån hvor det er lite sannsynlig at motparten
+vil være i stand til å møte sine forpliktelser ("unlikeliness
+to pay"), jf. artikkel 178 i kapitalkravsforordningen. Se
+også Finanstilsynets rundskriv 4/2020.
+10
+https://www.esrb.europa.eu/pub/pdf/recommendations
+/esrb.recommendation201215_on_restriction_of_distribu
+tions_during_the_COVID-
+19_pandemic~2502cd1d1c.en.pdf
+11 https://www.regjeringen.no/no/aktuelt/bankene-bor-
+vare-forsiktige-med-a-dele-ut-utbytte-
+fremover/id2829325/
+12 Små og mellomstore bedrifter defineres i CRR som
+foretak som sysselsetter færre enn 250 personer, og som
+har en årsomsetning under 50 mill. euro.
+13 https://www.regjeringen.no/no/dokumenter/prop.-
+147-ls-20202021/id2843611/?ch=1 samt
+Finanstilsynets høringsnotat.
+14 https://www.norges-bank.no/aktuelt/nyheter-og-
+hendelser/Pressemeldinger/2021/2021-02-01-sil/
+15 Norske forbrukslånsbanker er definert som
+spesialiserte banker hvor mer enn halvparten av
+utlånsporteføljen består av lån uten sikkerhet til
+personkunder. Ved utgangen av første kvartal 2021 besto
+gruppen av Bank Norwegian, Brabank, Eika Kredittbank,
+Instabank og Komplett Bank.
+16
+https://www.fi.se/contentassets/7870cf60763d402baf4
+e6b4d86d3904f/bankbarometern-2021-1.pdf
+17 https://vff.no/historisk-statistikk
+18 https://www.eiopa.europa.eu/content/eiopa-outlines-
+key-financial-stability-risks-and-vulnerabilities-
+insurance-and-pension
+19 Eksponeringen er målt ved forholdet mellom
+investeringer i næringseiendom (i kollektiv- og
+selskapsporteføljen) og egenkapitalen (differansen
+mellom eiendeler og forpliktelser i Solvens II-balansen).
+20
+https://www.finansnorge.no/aktuelt/nyheter/2021/01/
+rekordstor-flytting-av-pensjonskapitalbevis--nodvendig-
+med-flytteplaner/
+21 Foretakene i virksomhetsregisteret som har
+virksomhet innen kryptovaluta, er kun underlagt
+hvitvaskingstilsyn og ikke fullt tilsyn. For øvrig henvises
+til følgende advarsel om risiko ved virtuelle valutaer.
+22 NAM-FT er basert på modellen Norwegian Aggregate
+Model (NAM) og er særlig utviklet for stresstesting av
+banker og analyser av finansiell stabilitet. NAM er
+utviklet av professorene Gunnar Bårdsen og Ragnar
+Nymoen. Dokumentasjon av modellen finnes på
+normetrics.no. Modellen er også omtalt i Finansielt utsyn
+fra 2014 til 2020.
+23 Det reelle fallet i boligpriser og næringseiendomspriser
+i stresscenarioet ligner mer på utviklingen under
+bankkrisen på 1980- og1990-tallet. I stresscenarioet
+faller boligprisene delt på konsumprisindeksen med 43
+prosent fra 2021 til 2024, mens nedgangen var 39
+prosent fra 1987 til 1993. Det reelle fallet i
+næringseiendomsprisene i stressperioden (2020-2025)
+er 53 prosent, mens det var 54 prosent fra 1986 til 1992.
+Realpriser er her beregnet som årlige gjennomsnitt av
+eiendomspriser delt på årlige gjennomsnitt av
+konsumprisindeksen.
+NOTER
+FINANSTILSYNET FINANSIELT UTSYN JUNI 2021 63
+24 EBAs stresstest går over tre år. En tilsvarende effekt er
+i Finanstilsynets modell fordelt over fem år og utgjør
+derfor en svakere stressfaktor.
+25 DNB Bankkonsern, Sparebank 1 SR, Sparebank SMN,
+Sparebanken Vest, Sparebank 1 Østlandet, Sparebank 1
+Nord-Norge, Sparebanken Sør, Sparebanken Møre,
+Sparebanken Sogn og Fjordane, Nordea Direct Bank,
+Sparebanken Øst, Sbanken, Storebrand Bank, Helgeland
+Sparebank, Landkreditt Bank, Sandnes Sparebank, Fana
+Sparebank, Totens Sparebank og Aurskog Sparebank.
+26 Sum renteinntekter minus sum rentekostnader i
+prosent av gjennomsnittlig forvaltningskapital (GFK).
+27 Kapitalkravene er basert på full CRD IV/CRR og fullt
+innfaset systemrisikobuffer. Som en teknisk forutsetning
+settes motsyklisk kapitalbuffer til 0. Krav til ren
+kjernekapital, bevaringsbuffer, systemrisikobuffer,
+motsyklisk kapitalbuffer, buffer for systemviktige foretak
+og individuelt bestemte pilar 2-krav forutsettes å være
+konstante gjennom perioden.
+28 En del av sentralbankenes likviditetstiltak vil påvirke
+uvektet kapitaldekning for de større bankene.
+Stresstesten inkluderer ikke slike effekter.
+KAPITTEL 5 STRESSTEST AV NORSKE BANKER
+FINANSTILSYNET FINANSIELT UTSYN JUNI 2021 57
+BANKENES RESULTATER I
+STRESSCENARIOET
+Forutsetninger for stresstesten
+I en alvorlig krise vil bankenes resultater svekkes av
+både reduserte inntekter og omfattende økning i
+utlånstapene. I en normalsituasjon er utlånstapene i
+stor grad knyttet til spesielle forhold hos enkelt-
+kunder, mens et kraftig tilbakeslag vil ramme store
+deler av økonomien. Resultatene i stresstesten må ses i
+lys av at inntjening og soliditet i flere bedrifter er svak
+som følge av nedstengninger og redusert etterspørsel
+under koronapandemien, og at husholdningenes
+gjeldsbelastning er historisk høy. Norske banker har
+utlån til tilnærmet alle næringer og en meget stor
+andel av husholdningene.
+I stresscenarioet øker bankenes kostnader sterkt som
+følge av at rentene på innskudd og markedsfinansie-
+ring stiger. Samtidig øker bankenes utlånsrenter, men
+det forutsettes at ikke hele renteøkningen overføres til
+lånekundene. En relativt stor andel av ikke-finansielle
+foretak er ikke i stand til å dekke samlede renteutgifter
+på banklån, obligasjonslån og leverandørgjeld mv. med
+løpende inntjening, se omtale i kapittel 1. Slike foretak
+vil trolig heller ikke klare å betale avdrag og økte
+renter i stressbanen. Til tross for bedret innskudds-
+margin faller bankenes netto renteinntekter som andel
+av gjennomsnittlig forvaltningskapital med 10 basis-
+punkter. I tillegg bidrar varslingsfristen for renteøk-
+ninger på personlån til å redusere rentemarginen i den
+perioden rentenivået øker. Lavere økonomisk aktivitet
+antas å redusere bankenes netto provisjonsinntekter
+med 20 prosent. Bankenes administrasjonskostnader
+framskrives med utviklingen i generelle
+lønnskostnader i stressperioden.
+Norske banker har samlet sett relativt begrenset
+direkte eksponering mot aksjer, obligasjoner og fast
+eiendom. Enkelte banker er imidlertid mer eksponert
+enn andre, og dette fanges opp i årets stresstest. Fall i
+aksjemarkedene, økte kredittrisikopåslag og lavere
+eiendomspriser gir derfor et negativt resultatbidrag i
+2022, men bidraget er marginalt sammenlignet med
+utlånstapene. Tap som følge av operasjonell risiko
+beregnes som en årlig andel av gjennomsnittlig forvalt-
+ningskapital, som over stressperioden utgjør om lag
+det samlede nivået i standardmetoden for stresstesten
+fra Den europeiske banktilsynsmyndigheten
+(European Banking Authority, EBA).24
+I stresscenarioet forutsettes det at bankene ikke
+betaler utbytte. Videre legges det til grunn at det ikke
+skytes inn ny egenkapital eller at bankene foretar
+andre strategiske tilpasninger. Det forutsettes derfor
+at utviklingen i balansen for den enkelte bank følger
+endringen for de aktuelle kundesegmentene i
+banksektoren samlet, men ulik veksttakt mellom
+bankene vil påvirke utviklingen i den enkelte banks
+kjernekapitaldekning i et stress.
+Boks 7: Fordeling av utlånstap mellom
+banker
+Bankenes totale tap på utlån til personkunder og
+bedriftskunder er modellert i Finanstilsynets
+makromodell NAM-FT. Bankenes tap på utlån til
+personer går opp når husholdningenes
+rentebelastning øker og når boligprisene faller.
+Effektene på bankenes tap er: i) sterkere når
+husholdningenes rentebelastning er høy enn når
+den er lav, og ii) sterkere når boligprisene faller
+mye. Bankenes tap på utlån til bedrifter øker ved
+negativ BNP-vekst, fall i oljeprisen, økning i
+bedriftenes rentebelastning og nedgang i
+næringseiendomsprisene. Virkningene på
+bankenes tap er: i) sterkere når bedriftenes
+rentebelastning er høy enn når den er lav, og ii)
+sterkere når næringseiendomsprisene faller mye.
+Utlånstapet blir i NAM-FT beregnet som tap i
+prosent av total utlånseksponering for hvert av
+årene 2021 til 2025. Videre blir bankenes utlån til
+henholdsvis personkunder og bedriftskunder
+framskrevet. Den årlige tapsprosenten
+multiplisert med den totale utlånseksponeringen
+utgjør bankenes totale utlånstap i kroner.
+Fra og med i år brukes Finanstilsynets nye
+konkurs- og misligholdssannsynlighetsmodell
+SEMKO for estimering av såkalte PD-er (proba-
+KAPITTEL 5 STRESSTEST AV NORSKE BANKER
+58 FINANSTILSYNET FINANSIELT UTSYN JUNI 2021
+5.11 Resultat og viktigste resultatkomponenter. Norske
+bankkonsern – stresscenario
+Kilde: Finanstilsynet
+5.12 Utvikling i kapitaldekning. Norske bankkonsern –
+stresscenario
+Kilde: Finanstilsynet
+Stresstestresultatene for norske bankkonsern
+Finanstilsynet stresstester samtlige norske banker.
+Nedenfor drøftes særlig utviklingen for 19 av de
+største bankkonsernene.25 Disse sto for vel 72 prosent
+av norske bankers totale forvaltningskapital ved
+utgangen av 2020. Filialer av utenlandske bankkon-
+sern inngår ikke i utvalget. Utviklingen for øvrige
+norske banker og rene forbrukslånsbanker er omtalt
+separat.
+Bankkonsernenes viktigste inntektskilde, netto rente-
+inntekter26, faller i stresscenarioet fra 1,55 prosent av
+gjennomsnittlig forvaltningskapital i 2020 til 1,27
+prosent i 2022 og stabiliseres deretter på 1,45 prosent.
+Nedgangen kan tilskrives forutsetningen om at noe av
+økningen i bankenes finansieringskostnader ikke kan
+overføres til kunder med særlig svak betjeningsevne.
+Varslingsfristen for heving av utlånsrenter bidrar også
+til redusert rentenetto, særlig i de årene rentenivået
+stiger sterkt.
+Redusert rentenetto og nedgang i provisjonsinntek-
+tene reduserer inntjeningen fra kjernevirksomheten
+og svekker bankenes evne til å dekke utlånstap. Etter
+hvert som den økonomiske situasjonen for flere av
+bankenes kunder forverres i stresset, øker
+utlånstapene så mye at bankenes resultater blir
+negative og kjernekapitaldekningen faller.
+Tap på utlån til bedriftsmarkedet øker fra 0,9 prosent
+av de samlede utlånene til sektoren i 2020 til nesten 5
+prosent i 2022. For personmarkedet, som utgjør
+bankenes største utlånsportefølje, øker tapene fra 0,2
+prosent av samlede personmarkedslån i 2020 til 1,5
+prosent i 2022. Bankkonsernenes resultat etter skatt
+svekkes fra 0,7 prosent av gjennomsnittlig forvalt-
+ningskapital i 2020 til minus 1,5 prosent i 2022, for så
+gradvis å bedres til et samlet positivt resultat på 0,4
+prosent siste år i perioden, se figur 5.11.
+Bankenes rene kjernekapitaldekning faller fra 18,7
+prosent ved inngangen til perioden til 10,1 prosent i
+2023 og øker deretter til 11,9 prosent i 2025, se figur
+5.12. Kun et fåtall av bankkonsernene opprettholder et
+nivå på ren kjernekapital som dekker det samlede
+kapitalkravet inkludert bufferkrav27 og pilar 2-krav.
+-2,5
+-2,0
+-1,5
+-1,0
+-0,5
+0,0
+0,5
+1,0
+1,5
+2,0
+-2,5
+-2,0
+-1,5
+-1,0
+-0,5
+0,0
+0,5
+1,0
+1,5
+2,0
+2020 2021 2022 2023 2024 2025
+Prosent av GFK
+Netto renteinnteker Resultat etter skatt Utlånstap
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+2020 2021 2022 2023 2024 2025
+Prosent
+Uvektet kjernekapitaldekning
+Ren kjernekapitaldekning
+Krav til ren kjernekapital inkl. bufferkrav (vektet snitt)
+bility of default) for ikke-finansielle foretak.
+SEMKO kalibreres med årsregnskap og annen
+foretaksspesifikk informasjon og estimeres for 10
+næringsgrupper. Lånekundenes PD og bankenes
+engasjement ved utgangen av 2020 danner
+grunnlaget for å beregne bankenes tapsandel for
+ikke-finansielle foretak. Metoden for fordeling av
+utlånstap mellom bankene er nærmere beskrevet
+i Finansielt utsyn juni 2020.
+KAPITTEL 5 STRESSTEST AV NORSKE BANKER
+FINANSTILSYNET FINANSIELT UTSYN JUNI 2021 59
+Dette skyldes hovedsakelig negativt resultat drevet av
+store utlånstap. Også økt risikovektet beregnings-
+grunnlag i årene fram til 2023 som følge av vekst i
+utlån til husholdninger og kommuner bidrar til
+nedgangen i ren kjernekapitaldekning.
+Stresstestmodellen fanger ikke opp porteføljemigra-
+sjon i IRB-banker. Det innebærer at det ikke er tatt
+hensyn til at migrasjon til høyere risikoklasser som
+følge av den økonomiske utviklingen i stresscenarioet
+vil øke risikovektene og redusere kapitaldekningen.
+Den uvektede kapitaldekningen (leverage ratio28) for
+bankkonsernene faller fra 7,4 prosent i 2020 til 4,3
+prosent i 2023 og øker til 4,9 prosent i 2025. Ni av
+bankkonsernene oppfyller ikke det uvektede
+kapitalkravet (inkludert gjeldende bufferkrav) i
+scenarioet.
+Fallet i kapitaldekningen varierer betydelig mellom
+bankene. Figur 5.13 viser endringen i ren kjerne-
+kapitaldekning fra årsslutt 2020 til det laveste nivået i
+stressperioden.
+Bankkonsernene som kommer dårligst ut, har i
+gjennomsnitt relativt lav kapitalisering ved inngangen
+til perioden, en relativt høy andel utlån til ikke-
+finansielle foretak eller høy anslått kredittrisiko på
+denne porteføljen. Nivået på netto renteinntekter har
+også stor betydning.
+ØVRIGE NORSKE BANKER
+Øvrige norske finansforetak (89 foretak) omfatter i
+hovedsak mindre og mellomstore sparebanker. Disse
+stresstestes på enkeltforetaksnivå (morbank). Makro-
+scenarioet, stresstestmetoden og forutsetningene er de
+samme som for bankkonsernene. I årets stresstest
+inkluderes også disse bankenes verdipapirbehold-
+ninger og eiendomsinvesteringer i vurderingen på
+samme måte som for bankkonsernene.
+Det samlede resultatet til de mindre norske bankene
+svekkes kraftig de tre første årene i stresscenarioet.
+Økte tap på utlån til personkunder og til ikke-finan-
+sielle foretak står for omtrent like store deler av svek-
+kelsen, til tross for at bedriftsmarkedsporteføljen er
+betydelig mindre enn personmarkedsporteføljen. Tap
+5.13 Endring kapitaldekning fra 2020 til minimums-
+punktet. Norske bankkonsern – stresscenario
+Kilde: Finanstilsynet
+på utlån til ikke-finansielle foretak er generelt høyere
+for de mindre bankene enn for de store bankene
+grunnet høyere risiko i bedriftsmarkedsporteføljene.
+De mindre og mellomstore bankene har samlet sett
+høyere ren kjernekapitaldekning enn de større
+bankene ved inngangen til stressperioden (19,2
+prosent). I stresscenarioet faller denne ned mot 11,7
+prosent i løpet av de tre første årene, før den stiger
+igjen og ender på 12,9 prosent i 2025. Det er imidlertid
+stor variasjon mellom bankene. I 2023 vil 58 av de 89
+bankene ikke oppfylle de samlede kapitalkravene
+inkludert bufferkravene og pilar 2-kravet. Samtidig får
+53 banker beregnet en uvektet kjernekapitalandel
+(leverage ratio) under gjeldende krav på 5 prosent.
+FORBRUKSLÅNSBANKER
+Markedet for forbrukslån er i endring. Siden 2019 har
+utlånsveksten vært sterkt avtagende. Samtidig har
+misligholdet i bankenes forbrukslånsporteføljer økt,
+som omtalt i kapittel 2. I en stressituasjon vil det
+kunne være vanskelig for bankene å selge porteføljer
+av misligholdte lån til samme pris eller omfang som
+tidligere. Økende boligpriser har historisk gitt rom for
+å refinansiere forbrukslån, og et boligprisfall kan
+redusere denne muligheten. Det kan medføre at
+bankene må ta tap på en større andel av misligholdte
+lån. Analyser av utlånstap i normale økonomiske
+perioder viser at tapene på forbrukslån er fra 10 til
+-12 -10 -8 -6 -4 -2 0
+Bank 19
+Bank 18
+Bank 17
+Bank 16
+Bank 15
+Bank 14
+Bank 13
+Bank 12
+Bank 11
+Bank 10
+Bank 9
+Bank 8
+Bank 7
+Bank 6
+Bank 5
+Bank 4
+Bank 3
+Bank 2
+Bank 1
+Prosentpoeng
+Uvektet Risikovektet
+KAPITTEL 5 STRESSTEST AV NORSKE BANKER
+60 FINANSTILSYNET FINANSIELT UTSYN JUNI 2021
+5.14 Årlige utlånstap som andel av totale utlån.
+Forbrukslånsbanker
+Kilde: Finanstilsynet
+over 20 ganger større enn på øvrige lån til hushold-
+ninger, som i hovedsak består av boliglån. Det er
+derfor sannsynlig at tapene på forbrukslån i et stress
+vil kunne bli svært høye.
+Det er imidlertid stor usikkerhet til hvordan tapene på
+forbrukslån vil utvikle seg i en alvorlig krise. Norge har
+ikke opplevd et kraftig og langvarig økonomisk
+tilbakeslag med høye tap på utlån til personmarkedet
+siden bankkrisen på 1990-tallet. Den gangen var
+andelen forbrukslån langt lavere enn i dag. På
+bakgrunn av denne usikkerheten har Finanstilsynet i
+år besluttet å legge om stresstesten av forbrukslåns-
+bankene, slik at den illustrerer hvor store tap disse
+bankene tåler uten å bryte kapitalkravene.
+Sju banker som i hovedsak yter forbrukslån, er med i
+Finanstilsynets stresstest. Forutsetningene for den
+"omvendte" stresstesten sammenfaller i stor grad med
+det generelle stresset av samtlige banker, men avviker
+på to sentrale punkter. Forbrukslånsbankene har en
+langt høyere rentenetto enn de tradisjonelle bankene
+og tilsvarende økte muligheter til å dekke utlånstap
+med løpende inntjening. Samlet utgjorde rentenettoen
+8,3 prosent av gjennomsnittlig forvaltningskapital i
+2020. I stresstesten reduseres rentenettoen til 6,3
+prosent i gjennomsnitt i 2021 og blir liggende uendret
+på om lag samme nivå fram til 2025. Redusert
+rentenetto kan for eksempel oppstå på grunn av sterk
+konkurranse i forbrukslånsmarkedet, se omtale i
+kapittel 2, noe som begrenser muligheten til å øke
+utlånsrentene i takt med den generelle renteøkningen.
+Et generelt høyere nivå på innskuddsrentene i de
+tradisjonelle bankene, opp fra nær 0 ved startpunktet,
+kan også bidra til at renten på innskudd må økes for at
+kundene skal være villige til å holde innskudd i
+forbrukslånsbankene.
+Det andre avviket gjelder beregning av utlånstap. I
+stedet for å framskrive utlånstapene ved hjelp av en
+estimert modell, settes utlånstapene i
+forbrukslånsbankene til høyeste mulige nivå uten at
+bankene samlet bryter kravene til kapitaldekning.
+Størrelsen på utlånstapene bygger derfor ikke på
+faktiske historiske korrelasjoner og sammenhenger
+med utviklingen i makroøkonomiske variabler, men er
+en følsomhetsanalyse som viser hvor store utlåns-
+tapene kan bli før kapitaldekningen faller under de
+regulatoriske minste- og bufferkravene.
+Det forutsettes at utlånstapene følger den samme
+profilen som i det generelle stresset, med betydelig
+svekkelse i de tre første årene av framskrivings-
+perioden før situasjonen bedrer seg noe mot slutten av
+stresset. Forbrukslånsbankene som gruppe vil kunne
+oppfylle kapitalkravene ved samlede, akkumulerte tap
+over femårsperioden på om lag 34 prosent av
+bankenes totale utlån ved inngangen til
+stressperioden. Til sammenligning var 23 prosent av
+forbrukslånsbankenes portefølje i mislighold per 1.
+kvartal 2021. De årlige utlånstapene som andel av
+totale utlån vil nå sitt maksimum på 9,8 prosent i
+2022, se figur 5.14. Det er imidlertid store forskjeller
+mellom bankene innad i denne gruppen, og flere av
+forbrukslånsbankene vil få problemer med å
+opprettholde kapitaldekningen uten kapitaltilførsel
+selv ved betydelig lavere tap enn 34 prosent.
+SAMLET VURDERING AV
+STRESSTESTRESULTATENE
+Norske bankers regulatoriske kapitaldekning har over
+flere år økt og steg også i 2020 i stor grad fordi
+utbytter ble holdt tilbake i henhold til myndighetenes
+anbefaling. Bankenes egenkapitalandel (egenkapital
+som andel av forvaltningskapital), som er et tradi-
+-10
+-9
+-8
+-7
+-6
+-5
+-4
+-3
+-2
+-1
+0
+-10
+-9
+-8
+-7
+-6
+-5
+-4
+-3
+-2
+-1
+0
+2019 2020 2021 2022 2023 2024 2025
+Prosent
+KAPITTEL 5 STRESSTEST AV NORSKE BANKER
+FINANSTILSYNET FINANSIELT UTSYN JUNI 2021 61
+sjonelt soliditetsmål, har økt, men er ikke markant
+høyere enn tidlig på 1990-tallet. I basisscenarioet
+forventes bankenes samlede soliditet å svekkes noe de
+neste årene dersom man legger en utbyttegrad på 50
+prosent til grunn. Dersom alt overskudd holdes
+tilbake, vil bankenes kapitaldekning øke.
+I stresscenarioet blir den samlede effekten på
+bankenes kapitaldekning betydelig. Brorparten av
+bankkonsernene vil bryte det samlede kravet til ren
+kjernekapital i løpet av stressperioden, selv om kravet
+til motsyklisk kapitalbuffer skulle fjernes helt. Det er
+hovedsakelig økte tap på utlån til ikke-finansielle
+foretak og på lån til husholdningene (inkludert
+forbrukslån) som svekker soliditeten i bankene, men
+også redusert rentenetto bidrar.
+I urolige perioder er det viktig å unngå usikkerhet i
+kapitalmarkedene om bankenes kapitalisering.
+Banknæringen samlet må være godt kapitalisert for å
+ha kapasitet til å gi kredittverdige lånekunder lån og
+ikke forsterke en negativ økonomisk utvikling
+ytterligere. Den videre økonomiske utviklingen er
+fortsatt preget av stor usikkerhet. Finanstilsynet legger
+vekt på at bankene hensyntar dette i sine beslutninger
+om utbetaling av utbytter og andre disposisjoner som
+kan bidra til å svekke den tapsabsorberende evnen.
+NOTER
+62 FINANSTILSYNET FINANSIELT UTSYN JUNI 2021
+NOTER
+1 I tillegg til å dekke rente- og avdragsforpliktelser må
+driftsinntjeningen dekke skatt, utbytte og
+egenfinansiering av eventuelle nye investeringer og økt
+likviditetsbehov. Gjeldsbetjeningsindikatoren bør derfor
+være betydelig høyere enn 1.
+2 I tillegg til å dekke netto rentekostnader og avdrag på
+gjeld må driftsinntjeningen dekke skatt. Over tid må
+driftsinntjeningen også bidra til et visst utbytte til eierne.
+Dersom selskapet har planer om å utvide virksomheten,
+må driftsinntjeningen også vanligvis dekke en viss andel
+egenfinansiering av nye investeringer. En eventuell
+nødvendig forbedring i likviditeten vil også ofte måtte
+delvis dekkes av egenfinansiering.
+3 Se blant annet McGowan et.al., "The Walking Dead
+Zombie Firms and Productivity Performance in OECD
+countries", OECD Economics Department Working Papers
+No. 1372.
+4 Se Shekar Aiyar et.al. (2021): "Covid-19: How will
+European Banks Fare?", IMF analyse no. 21/08. COVID-
+19: How Will European Banks Fare? (imf.org)
+5 Se Caroline Roulet (2020): "Corporate Debt Stress
+Testing: A Global Analysis of Non-Financial
+Corporations". OECD Working Paper No. 46 2020.
+6 Se
+https://www.bis.org/statistics/totcredit.htm?m=6%7C3
+80%7C669.
+7 Resultatet er definert som resultat etter skatt pluss
+rentekostnader. Ved utgangen av 2020 var
+gjeldsbetjeningsindikatoren som følger for de 17 landene
+i BIS-utvalget (prosent): 1.Frankrike (72,4), 2.Canada
+(62,0), 3.Sverige (55,8), 4.Norge (51,5), 5.Portugal (47,9),
+6.USA (46,5), 7.Nederland (46,0), 8.Belgia (45,7),
+9.Danmark (43,8), 10.Sør-Korea (40,2), 11.Finland (39,1),
+12.Spania (38,9), 13.Japan (37,8), 14.Italia (35,0), 15.UK
+(34,5), 16.Australia (34,0) og 17.Tyskland (25,1).
+8 Se referanse i fotnote 6 for flere internasjonale
+sammenligninger av ikke-finansielle foretak.
+9 Utlån hvor det er over 90 dager siden forfall/overtrekk
+samt andre utlån hvor det er lite sannsynlig at motparten
+vil være i stand til å møte sine forpliktelser ("unlikeliness
+to pay"), jf. artikkel 178 i kapitalkravsforordningen. Se
+også Finanstilsynets rundskriv 4/2020.
+10
+https://www.esrb.europa.eu/pub/pdf/recommendations
+/esrb.recommendation201215_on_restriction_of_distribu
+tions_during_the_COVID-
+19_pandemic~2502cd1d1c.en.pdf
+11 https://www.regjeringen.no/no/aktuelt/bankene-bor-
+vare-forsiktige-med-a-dele-ut-utbytte-
+fremover/id2829325/
+12 Små og mellomstore bedrifter defineres i CRR som
+foretak som sysselsetter færre enn 250 personer, og som
+har en årsomsetning under 50 mill. euro.
+13 https://www.regjeringen.no/no/dokumenter/prop.-
+147-ls-20202021/id2843611/?ch=1 samt
+Finanstilsynets høringsnotat.
+14 https://www.norges-bank.no/aktuelt/nyheter-og-
+hendelser/Pressemeldinger/2021/2021-02-01-sil/
+15 Norske forbrukslånsbanker er definert som
+spesialiserte banker hvor mer enn halvparten av
+utlånsporteføljen består av lån uten sikkerhet til
+personkunder. Ved utgangen av første kvartal 2021 besto
+gruppen av Bank Norwegian, Brabank, Eika Kredittbank,
+Instabank og Komplett Bank.
+16
+https://www.fi.se/contentassets/7870cf60763d402baf4
+e6b4d86d3904f/bankbarometern-2021-1.pdf
+17 https://vff.no/historisk-statistikk
+18 https://www.eiopa.europa.eu/content/eiopa-outlines-
+key-financial-stability-risks-and-vulnerabilities-
+insurance-and-pension
+19 Eksponeringen er målt ved forholdet mellom
+investeringer i næringseiendom (i kollektiv- og
+selskapsporteføljen) og egenkapitalen (differansen
+mellom eiendeler og forpliktelser i Solvens II-balansen).
+20
+https://www.finansnorge.no/aktuelt/nyheter/2021/01/
+rekordstor-flytting-av-pensjonskapitalbevis--nodvendig-
+med-flytteplaner/
+21 Foretakene i virksomhetsregisteret som har
+virksomhet innen kryptovaluta, er kun underlagt
+hvitvaskingstilsyn og ikke fullt tilsyn. For øvrig henvises
+til følgende advarsel om risiko ved virtuelle valutaer.
+22 NAM-FT er basert på modellen Norwegian Aggregate
+Model (NAM) og er særlig utviklet for stresstesting av
+banker og analyser av finansiell stabilitet. NAM er
+utviklet av professorene Gunnar Bårdsen og Ragnar
+Nymoen. Dokumentasjon av modellen finnes på
+normetrics.no. Modellen er også omtalt i Finansielt utsyn
+fra 2014 til 2020.
+23 Det reelle fallet i boligpriser og næringseiendomspriser
+i stresscenarioet ligner mer på utviklingen under
+bankkrisen på 1980- og1990-tallet. I stresscenarioet
+faller boligprisene delt på konsumprisindeksen med 43
+prosent fra 2021 til 2024, mens nedgangen var 39
+prosent fra 1987 til 1993. Det reelle fallet i
+næringseiendomsprisene i stressperioden (2020-2025)
+er 53 prosent, mens det var 54 prosent fra 1986 til 1992.
+Realpriser er her beregnet som årlige gjennomsnitt av
+eiendomspriser delt på årlige gjennomsnitt av
+konsumprisindeksen.
+NOTER
+FINANSTILSYNET FINANSIELT UTSYN JUNI 2021 63
+24 EBAs stresstest går over tre år. En tilsvarende effekt er
+i Finanstilsynets modell fordelt over fem år og utgjør
+derfor en svakere stressfaktor.
+25 DNB Bankkonsern, Sparebank 1 SR, Sparebank SMN,
+Sparebanken Vest, Sparebank 1 Østlandet, Sparebank 1
+Nord-Norge, Sparebanken Sør, Sparebanken Møre,
+Sparebanken Sogn og Fjordane, Nordea Direct Bank,
+Sparebanken Øst, Sbanken, Storebrand Bank, Helgeland
+Sparebank, Landkreditt Bank, Sandnes Sparebank, Fana
+Sparebank, Totens Sparebank og Aurskog Sparebank.
+26 Sum renteinntekter minus sum rentekostnader i
+prosent av gjennomsnittlig forvaltningskapital (GFK).
+27 Kapitalkravene er basert på full CRD IV/CRR og fullt
+innfaset systemrisikobuffer. Som en teknisk forutsetning
+settes motsyklisk kapitalbuffer til 0. Krav til ren
+kjernekapital, bevaringsbuffer, systemrisikobuffer,
+motsyklisk kapitalbuffer, buffer for systemviktige foretak
+og individuelt bestemte pilar 2-krav forutsettes å være
+konstante gjennom perioden.
+28 En del av sentralbankenes likviditetstiltak vil påvirke
+uvektet kapitaldekning for de større bankene.
+Stresstesten inkluderer ikke slike effekter.

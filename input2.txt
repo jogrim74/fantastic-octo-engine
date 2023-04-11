@@ -133,52 +133,7 @@ prosent ved inngangen til perioden til 10,1 prosent i
 5.12. Kun et fåtall av bankkonsernene opprettholder et
 nivå på ren kjernekapital som dekker det samlede
 kapitalkravet inkludert bufferkrav27 og pilar 2-krav.
--2,5
--2,0
--1,5
--1,0
--0,5
-0,0
-0,5
-1,0
-1,5
-2,0
--2,5
--2,0
--1,5
--1,0
--0,5
-0,0
-0,5
-1,0
-1,5
-2,0
-2020 2021 2022 2023 2024 2025
-Prosent av GFK
-Netto renteinnteker Resultat etter skatt Utlånstap
-0
-2
-4
-6
-8
-10
-12
-14
-16
-18
-20
-0
-2
-4
-6
-8
-10
-12
-14
-16
-18
-20
-2020 2021 2022 2023 2024 2025
+
 Prosent
 Uvektet kjernekapitaldekning
 Ren kjernekapitaldekning
@@ -265,26 +220,7 @@ redusere denne muligheten. Det kan medføre at
 bankene må ta tap på en større andel av misligholdte
 lån. Analyser av utlånstap i normale økonomiske
 perioder viser at tapene på forbrukslån er fra 10 til
--12 -10 -8 -6 -4 -2 0
-Bank 19
-Bank 18
-Bank 17
-Bank 16
-Bank 15
-Bank 14
-Bank 13
-Bank 12
-Bank 11
-Bank 10
-Bank 9
-Bank 8
-Bank 7
-Bank 6
-Bank 5
-Bank 4
-Bank 3
-Bank 2
-Bank 1
+
 Prosentpoeng
 Uvektet Risikovektet
 KAPITTEL 5 STRESSTEST AV NORSKE BANKER
@@ -362,29 +298,7 @@ flere år økt og steg også i 2020 i stor grad fordi
 utbytter ble holdt tilbake i henhold til myndighetenes
 anbefaling. Bankenes egenkapitalandel (egenkapital
 som andel av forvaltningskapital), som er et tradi-
--10
--9
--8
--7
--6
--5
--4
--3
--2
--1
-0
--10
--9
--8
--7
--6
--5
--4
--3
--2
--1
-0
-2019 2020 2021 2022 2023 2024 2025
+
 Prosent
 KAPITTEL 5 STRESSTEST AV NORSKE BANKER
 FINANSTILSYNET FINANSIELT UTSYN JUNI 2021 61
@@ -676,52 +590,7 @@ prosent ved inngangen til perioden til 10,1 prosent i
 5.12. Kun et fåtall av bankkonsernene opprettholder et
 nivå på ren kjernekapital som dekker det samlede
 kapitalkravet inkludert bufferkrav27 og pilar 2-krav.
--2,5
--2,0
--1,5
--1,0
--0,5
-0,0
-0,5
-1,0
-1,5
-2,0
--2,5
--2,0
--1,5
--1,0
--0,5
-0,0
-0,5
-1,0
-1,5
-2,0
-2020 2021 2022 2023 2024 2025
-Prosent av GFK
-Netto renteinnteker Resultat etter skatt Utlånstap
-0
-2
-4
-6
-8
-10
-12
-14
-16
-18
-20
-0
-2
-4
-6
-8
-10
-12
-14
-16
-18
-20
-2020 2021 2022 2023 2024 2025
+
 Prosent
 Uvektet kjernekapitaldekning
 Ren kjernekapitaldekning
@@ -808,26 +677,7 @@ redusere denne muligheten. Det kan medføre at
 bankene må ta tap på en større andel av misligholdte
 lån. Analyser av utlånstap i normale økonomiske
 perioder viser at tapene på forbrukslån er fra 10 til
--12 -10 -8 -6 -4 -2 0
-Bank 19
-Bank 18
-Bank 17
-Bank 16
-Bank 15
-Bank 14
-Bank 13
-Bank 12
-Bank 11
-Bank 10
-Bank 9
-Bank 8
-Bank 7
-Bank 6
-Bank 5
-Bank 4
-Bank 3
-Bank 2
-Bank 1
+
 Prosentpoeng
 Uvektet Risikovektet
 KAPITTEL 5 STRESSTEST AV NORSKE BANKER
@@ -905,29 +755,8 @@ flere år økt og steg også i 2020 i stor grad fordi
 utbytter ble holdt tilbake i henhold til myndighetenes
 anbefaling. Bankenes egenkapitalandel (egenkapital
 som andel av forvaltningskapital), som er et tradi-
--10
--9
--8
--7
--6
--5
--4
--3
--2
--1
-0
--10
--9
--8
--7
--6
--5
--4
--3
--2
--1
-0
-2019 2020 2021 2022 2023 2024 2025
+
+
 Prosent
 KAPITTEL 5 STRESSTEST AV NORSKE BANKER
 FINANSTILSYNET FINANSIELT UTSYN JUNI 2021 61

@@ -1,7 +1,3 @@
-KAPITTEL 5 STRESSTEST AV NORSKE BANKER
-FINANSTILSYNET FINANSIELT UTSYN JUNI 2021 57
-BANKENES RESULTATER I
-STRESSCENARIOET
 Forutsetninger for stresstesten
 I en alvorlig krise vil bankenes resultater svekkes av
 både reduserte inntekter og omfattende økning i
@@ -343,64 +339,7 @@ må driftsinntjeningen også vanligvis dekke en viss andel
 egenfinansiering av nye investeringer. En eventuell
 nødvendig forbedring i likviditeten vil også ofte måtte
 delvis dekkes av egenfinansiering.
-3 Se blant annet McGowan et.al., "The Walking Dead
-Zombie Firms and Productivity Performance in OECD
-countries", OECD Economics Department Working Papers
-No. 1372.
-4 Se Shekar Aiyar et.al. (2021): "Covid-19: How will
-European Banks Fare?", IMF analyse no. 21/08. COVID-
-19: How Will European Banks Fare? (imf.org)
-5 Se Caroline Roulet (2020): "Corporate Debt Stress
-Testing: A Global Analysis of Non-Financial
-Corporations". OECD Working Paper No. 46 2020.
-6 Se
-https://www.bis.org/statistics/totcredit.htm?m=6%7C3
-80%7C669.
-7 Resultatet er definert som resultat etter skatt pluss
-rentekostnader. Ved utgangen av 2020 var
-gjeldsbetjeningsindikatoren som følger for de 17 landene
-i BIS-utvalget (prosent): 1.Frankrike (72,4), 2.Canada
-(62,0), 3.Sverige (55,8), 4.Norge (51,5), 5.Portugal (47,9),
-6.USA (46,5), 7.Nederland (46,0), 8.Belgia (45,7),
-9.Danmark (43,8), 10.Sør-Korea (40,2), 11.Finland (39,1),
-12.Spania (38,9), 13.Japan (37,8), 14.Italia (35,0), 15.UK
-(34,5), 16.Australia (34,0) og 17.Tyskland (25,1).
-8 Se referanse i fotnote 6 for flere internasjonale
-sammenligninger av ikke-finansielle foretak.
-9 Utlån hvor det er over 90 dager siden forfall/overtrekk
-samt andre utlån hvor det er lite sannsynlig at motparten
-vil være i stand til å møte sine forpliktelser ("unlikeliness
-to pay"), jf. artikkel 178 i kapitalkravsforordningen. Se
-også Finanstilsynets rundskriv 4/2020.
-10
-https://www.esrb.europa.eu/pub/pdf/recommendations
-/esrb.recommendation201215_on_restriction_of_distribu
-tions_during_the_COVID-
-19_pandemic~2502cd1d1c.en.pdf
-11 https://www.regjeringen.no/no/aktuelt/bankene-bor-
-vare-forsiktige-med-a-dele-ut-utbytte-
-fremover/id2829325/
-12 Små og mellomstore bedrifter defineres i CRR som
-foretak som sysselsetter færre enn 250 personer, og som
-har en årsomsetning under 50 mill. euro.
-13 https://www.regjeringen.no/no/dokumenter/prop.-
-147-ls-20202021/id2843611/?ch=1 samt
-Finanstilsynets høringsnotat.
-14 https://www.norges-bank.no/aktuelt/nyheter-og-
-hendelser/Pressemeldinger/2021/2021-02-01-sil/
-15 Norske forbrukslånsbanker er definert som
-spesialiserte banker hvor mer enn halvparten av
-utlånsporteføljen består av lån uten sikkerhet til
-personkunder. Ved utgangen av første kvartal 2021 besto
-gruppen av Bank Norwegian, Brabank, Eika Kredittbank,
-Instabank og Komplett Bank.
-16
-https://www.fi.se/contentassets/7870cf60763d402baf4
-e6b4d86d3904f/bankbarometern-2021-1.pdf
-17 https://vff.no/historisk-statistikk
-18 https://www.eiopa.europa.eu/content/eiopa-outlines-
-key-financial-stability-risks-and-vulnerabilities-
-insurance-and-pension
+
 19 Eksponeringen er målt ved forholdet mellom
 investeringer i næringseiendom (i kollektiv- og
 selskapsporteføljen) og egenkapitalen (differansen
@@ -420,19 +359,7 @@ utviklet av professorene Gunnar Bårdsen og Ragnar
 Nymoen. Dokumentasjon av modellen finnes på
 normetrics.no. Modellen er også omtalt i Finansielt utsyn
 fra 2014 til 2020.
-23 Det reelle fallet i boligpriser og næringseiendomspriser
-i stresscenarioet ligner mer på utviklingen under
-bankkrisen på 1980- og1990-tallet. I stresscenarioet
-faller boligprisene delt på konsumprisindeksen med 43
-prosent fra 2021 til 2024, mens nedgangen var 39
-prosent fra 1987 til 1993. Det reelle fallet i
-næringseiendomsprisene i stressperioden (2020-2025)
-er 53 prosent, mens det var 54 prosent fra 1986 til 1992.
-Realpriser er her beregnet som årlige gjennomsnitt av
-eiendomspriser delt på årlige gjennomsnitt av
-konsumprisindeksen.
-NOTER
-FINANSTILSYNET FINANSIELT UTSYN JUNI 2021 63
+
 24 EBAs stresstest går over tre år. En tilsvarende effekt er
 i Finanstilsynets modell fordelt over fem år og utgjør
 derfor en svakere stressfaktor.
@@ -1242,52 +1169,7 @@ fortsatt preget av stor usikkerhet. Finanstilsynet legger
 vekt på at bankene hensyntar dette i sine beslutninger
 om utbetaling av utbytter og andre disposisjoner som
 kan bidra til å svekke den tapsabsorberende evnen.
-NOTER
-62 FINANSTILSYNET FINANSIELT UTSYN JUNI 2021
-NOTER
-1 I tillegg til å dekke rente- og avdragsforpliktelser må
-driftsinntjeningen dekke skatt, utbytte og
-egenfinansiering av eventuelle nye investeringer og økt
-likviditetsbehov. Gjeldsbetjeningsindikatoren bør derfor
-være betydelig høyere enn 1.
-2 I tillegg til å dekke netto rentekostnader og avdrag på
-gjeld må driftsinntjeningen dekke skatt. Over tid må
-driftsinntjeningen også bidra til et visst utbytte til eierne.
-Dersom selskapet har planer om å utvide virksomheten,
-må driftsinntjeningen også vanligvis dekke en viss andel
-egenfinansiering av nye investeringer. En eventuell
-nødvendig forbedring i likviditeten vil også ofte måtte
-delvis dekkes av egenfinansiering.
-3 Se blant annet McGowan et.al., "The Walking Dead
-Zombie Firms and Productivity Performance in OECD
-countries", OECD Economics Department Working Papers
-No. 1372.
-4 Se Shekar Aiyar et.al. (2021): "Covid-19: How will
-European Banks Fare?", IMF analyse no. 21/08. COVID-
-19: How Will European Banks Fare? (imf.org)
-5 Se Caroline Roulet (2020): "Corporate Debt Stress
-Testing: A Global Analysis of Non-Financial
-Corporations". OECD Working Paper No. 46 2020.
-6 Se
-https://www.bis.org/statistics/totcredit.htm?m=6%7C3
-80%7C669.
-7 Resultatet er definert som resultat etter skatt pluss
-rentekostnader. Ved utgangen av 2020 var
-gjeldsbetjeningsindikatoren som følger for de 17 landene
-i BIS-utvalget (prosent): 1.Frankrike (72,4), 2.Canada
-(62,0), 3.Sverige (55,8), 4.Norge (51,5), 5.Portugal (47,9),
-6.USA (46,5), 7.Nederland (46,0), 8.Belgia (45,7),
-9.Danmark (43,8), 10.Sør-Korea (40,2), 11.Finland (39,1),
-12.Spania (38,9), 13.Japan (37,8), 14.Italia (35,0), 15.UK
-(34,5), 16.Australia (34,0) og 17.Tyskland (25,1).
-8 Se referanse i fotnote 6 for flere internasjonale
-sammenligninger av ikke-finansielle foretak.
-9 Utlån hvor det er over 90 dager siden forfall/overtrekk
-samt andre utlån hvor det er lite sannsynlig at motparten
-vil være i stand til å møte sine forpliktelser ("unlikeliness
-to pay"), jf. artikkel 178 i kapitalkravsforordningen. Se
-også Finanstilsynets rundskriv 4/2020.
-10
+
 https://www.esrb.europa.eu/pub/pdf/recommendations
 /esrb.recommendation201215_on_restriction_of_distribu
 tions_during_the_COVID-
@@ -1548,3 +1430,99 @@ fortsatt preget av stor usikkerhet. Finanstilsynet legger
 vekt på at bankene hensyntar dette i sine beslutninger
 om utbetaling av utbytter og andre disposisjoner som
 kan bidra til å svekke den tapsabsorberende evnen
+
+Risikoen for finansiell ustabilitet internasjonalt har økt i inneværende år. Utsikter til svakere økonomisk
+vekst i kombinasjon med vedvarende høy inflasjon har skapt frykt for stagflasjon. I et slikt scenario har
+finans- og pengepolitikken begrensede muligheter til å motvirke et økonomisk tilbakeslag og økende
+arbeidsledighet ved å stimulere etterspørselen. Dersom inflasjonen skulle holde seg høy eller øke, kan det
+bli nødvendig for sentralbankene å øke rentene betydelig utover dagens nivå. Strammere pengepolitikk kan
+føre til et markert økonomisk tilbakeslag, men kan være nødvendig for å opprettholde tilliten til
+pengeverdien og forebygge et større tilbakeslag fram i tid.
+De senere årene er det bygget opp betydelige sårbarheter i det finansielle systemet. Gjelden til
+husholdninger og ikke-finansielle foretak har økt mye i mange land over flere år. Kombinasjonen av høy
+gjeldsbelastning og økte renter rammer husholdninger og bedrifter hardt og forsterkes av kraftig prisøkning
+på energi, matvarer og råvarer.
+I mange land har også statsgjelden økt betydelig de senere årene, blant annet som følge av støttetiltak
+under pandemien. Det finanspolitiske handlingsrommet er redusert, og økonomiene er mer sårbare enn
+tidligere for økte renter på statsgjelden.
+Internasjonale aksjemarkeder har falt det siste året, og eiendomsprisene har flatet ut eller falt i flere land.
+Ytterligere økning i rentene kan føre til videre prisfall i verdipapir- og eiendomsmarkedene, og svekket
+likviditet kan forsterke nedadgående prisspiraler.
+Den russiske invasjonen av Ukraina, flere angrep på infrastruktur i Europa, slik som den nordeuropeiske
+gassrørledningen Nord Stream og telekomlinjer, og generell geopolitisk usikkerhet stiller økte krav til
+kriseberedskap i finanssektoren. Faren for større cyberhendelser med alvorlige konsekvenser har økt. Slike
+hendelser kan ha store konsekvenser for finansiell infrastruktur, særlig dersom kritiske funksjoner rammes.
+Tette koblinger i det finansielle systemet øker faren for at enkelthendelser sprer seg og rammer flere
+aktører.
+Det europeiske systemrisikorådet (ESRB) utstedte i september 2022 en advarsel til medlemslandene om økt
+sårbarhet i det finansielle systemet. Rådet viser til at den geopolitiske utviklingen etter krigsutbruddet i
+Ukraina har økt sannsynligheten for at flere risikofaktorer kan inntreffe samtidig og gjensidig forsterke
+hverandre. Svekket gjeldsbetjeningsevne i husholdninger og foretak vil øke kredittrisikoen på utlån og
+risikoen for et betydelig fall i aktivapriser. ESRB understreker viktigheten av å bevare eller øke
+motstandskraften i finanssektoren, slik at det finansielle systemet kan fortsette å støtte realøkonomien hvis
+og når alvorlige hendelser inntreffer.
+NORSKE BANKER
+NORSKE BANKER ER SOLIDE OG HAR HØY LØNNSOMHET
+Norske banker er solide og tilfredsstiller de regulatoriske kapitalkravene. Resultatene er gode, også
+sammenlignet med banker i de fleste andre europeiske land. For de største norske bankene er ren
+kjernekapitaldekning om lag som i andre nordiske land og noe høyere enn medianen blant europeiske
+banker. Norske bankers uvektede kjernekapitalandel er litt høyere enn i store banker i de øvrige nordiske
+landene.9
+Kapitalkravsrabatter bedrer kapitaldekningen, men endrer ikke soliditeten
+Selv om kapitaldekningen er styrket siden 2019, se figur 18, er soliditeten reelt sett om lag uendret for
+bankene samlet sett. Innlemmelsen av det europeiske kapitalkravsregelverket (CRR/CRD IV) fra 31.
+desember 2019 innebar en reell lettelse i norske bankers kapitalkrav som følge av lavere risikovekter.
+Bortfall av Basel 1-gulvet for banker som bruker interne målemetoder for kredittrisiko (internal ratings-
+based approach, IRB), og innføring av reduserte kapitalkrav for utlån til små og mellomstore bedrifter (SMB-
+rabatten), bidro til å øke bankenes målte rene kjernekapitaldekning med 1,5 prosentpoeng ved utgangen av
+2019.
+Ytterligere endringer i kapitalkravsregelverket (bankpakken) ble gjennomført i Norge 1. juni 2022. Med
+bankpakken ble det innført en utvidet SMB-rabatt og en infrastrukturrabatt som reduserte det risikovektede
+beregningsgrunnlaget for bankene. Finanstilsynet har beregnet at SMB- og infrastrukturrabatten isolert sett
+bidrar til en økning i bankenes gjennomsnittlige rene kjernekapitaldekning på 0,8 prosentpoeng, hvorav den
+utvidede rabatten fra 1. juni 2022 er anslått til 0,4 prosentpoeng. Uten effekten av lettelsene i
+kapitalkravsregelverket er bankenes rene kjernekapitaldekning redusert med 0,6 prosentpoeng det siste
+året. Uvektet kjernekapital er også redusert i denne perioden.
+Figur 18 Soliditet i norske banker Figur 19 Lønnsomhet i norske banker
+Uvektet kjernekapitalandel ble rapportert først fra 2014.
+Kilde: Finanstilsynet
+Kilde: Finanstilsynet
+Bankpakken inneholder også nye bestemmelser om myndighetenes fastsettelse av krav til kvalitet på
+kapitalen som skal dekke pilar 2-kravene10. Bestemmelsen medfører at en større andel av kapitalkravet kan
+oppfylles gjennom utstedelse av fondsobligasjoner eller ansvarlige lån. Dersom de nye bestemmelsene
+9 Med unntak av islandske banker.
+10 Det følger av CRD V at pilar 2-kravet normalt skal dekkes av minst 56,25 prosent ren kjernekapital, mens vanlig praksis i Norge har vært
+at pilar 2-kravet fullt ut skal dekkes av ren kjernekapital. Bestemmelsen er ikke gjennomført i norsk rett, men Finanstilsynet legger CRD V-
+bestemmelsene til grunn i sin tilsynspraksis for banker som får fastsatt sitt krav i andre halvår 2022 eller senere.
+15
+hadde fått effekt for nåværende pilar 2-krav, ville kravet til ren kjernekapital (vektet gjennomsnitt) blitt
+redusert med om lag 0,9 prosentpoeng for norske banker samlet.
+Norges Bank har besluttet å øke motsyklisk kapitalbuffer fra 1,5 til 2,0 prosent med virkning fra 31.
+desember 2022 og til 2,5 prosent med virkning fra 31. mars 2023. I tillegg økes systemrisikobufferen for
+standardmetodebankene og foretak som bruker grunnleggende IRB-metode, fra 3,0 til 4,5 prosent ved
+utgangen av 2022, samtidig som grunnlaget avgrenses til innenlandske eksponeringer. For øvrige IRB-
+banker økte systemrisikobufferen til 4,5 prosent fra 31. desember 2020, med tilsvarende endring i
+grunnlaget.
+Kapitalkravene bør holdes på et nivå som gjør bankene motstandsdyktige og i stand til å yte kreditt i en tid
+med økende risiko i det norske finansielle systemet. Finanstilsynet anbefalte i et brev til
+Finansdepartementet 31. oktober 2022 at IRB-bankenes risikovektgulv for lån med pant i bolig- og
+næringseiendom bør økes i tråd med økt tapsrisiko for lån med pant i eiendom.11 I et brev til Norges Bank 1.
+november 2022 ga Finanstilsynet uttrykk for at det bør vurderes å utvide grunnlaget for
+systemrisikobufferen til også å gjelde engasjementer i utlandet.12 En slik utvidelse vil etter Finanstilsynets
+mening bidra til at kravet til systemrisikobuffer bedre fanger opp den underliggende systemrisikoen.
+I tillegg har Finanstilsynet i brev til Finansdepartementet 30. november 2022 gitt tilrådning om å
+opprettholde en risikovekt på 100 prosent13 for lån med pant i næringseiendom for banker som bruker
+standardmetoden.
+Økt rentemargin gir bedre lønnsomhet
+Etter et fall i lønnsomheten ved pandemiutbruddet har bankenes samlede lønnsomhet steget siden 2020,
+se figur 19. Det skyldes blant annet lave utlånstap og høyere driftsinntekter som følge av økte netto
+renteinntekter. Norske bankers egenkapitalavkastning har også økt og er tilbake på nivået for årene før
+2020.
+Netto renteinntekter er den viktigste inntektskilden for norske banker og har økt det siste året, se figur 20.
+Et økt rentenivå bidrar i seg selv til å øke bankenes netto renteinntekter som følge av at eiendelene delvis
+motsvares av egenkapital. Bankene har ikke satt opp innskuddsrenten like mye som pengemarkedsrenten
+har økt i inneværende år. Høyere rentemargin på innskudd14 har dermed ført til økt totalmargin, se figur 21,
+og bidrar til en bedring i netto renteinntekter målt som andel av gjennomsnittlig forvaltningskapital. Den
+markante økningen i markeds- og styringsrenter utover i 2022 har samtidig ført til at bankenes
+utlånsmargin15 har sunket betydelig. Reduksjonen i utlånsmargin er påvirket av at det er tidsetterslep på
+når bankene kan videreføre disse renteøkningene til sine kunder i form av økte renter på lån.
